@@ -1,0 +1,68 @@
+# Konfigurace scraperu fór (phpBB) -> RSS
+# Kazde vlakno ma vlastni "base_url", protoze sledujeme dve ruzna fora.
+# id = parametr t z URL (viewtopic.php?t=XXXX)
+
+threads:
+  # --- forum.mobilmania.zive.cz ---
+  - id: 1329158
+    base_url: "https://forum.mobilmania.zive.cz"
+    name: "MobilMania vlakno 1329158"
+  - id: 1335982
+    base_url: "https://forum.mobilmania.zive.cz"
+    name: "MobilMania vlakno 1335982"
+  - id: 1330727
+    base_url: "https://forum.mobilmania.zive.cz"
+    name: "MobilMania vlakno 1330727"
+  - id: 1326917
+    base_url: "https://forum.mobilmania.zive.cz"
+    name: "MobilMania vlakno 1326917"
+  - id: 1333379
+    base_url: "https://forum.mobilmania.zive.cz"
+    name: "MobilMania vlakno 1333379"
+  - id: 1341165
+    base_url: "https://forum.mobilmania.zive.cz"
+    name: "MobilMania vlakno 1341165"
+
+  # --- forum.finexpert.e15.cz ---
+  - id: 1200034
+    base_url: "https://forum.finexpert.e15.cz"
+    name: "FinExpert vlakno 1200034"
+  - id: 1142003
+    base_url: "https://forum.finexpert.e15.cz"
+    name: "FinExpert vlakno 1142003"
+  - id: 1131529
+    base_url: "https://forum.finexpert.e15.cz"
+    name: "FinExpert vlakno 1131529"
+  - id: 301647
+    base_url: "https://forum.finexpert.e15.cz"
+    name: "FinExpert vlakno 301647"
+  - id: 1120912
+    base_url: "https://forum.finexpert.e15.cz"
+    name: "FinExpert vlakno 1120912"
+  - id: 1078058
+    base_url: "https://forum.finexpert.e15.cz"
+    name: "FinExpert vlakno 1078058"
+  - id: 1256188
+    base_url: "https://forum.finexpert.e15.cz"
+    name: "FinExpert vlakno 1256188"
+  - id: 1239073
+    base_url: "https://forum.finexpert.e15.cz"
+    name: "FinExpert vlakno 1239073"
+
+settings:
+  # kolik poslednich stranek vlakna kontrolovat (2 = posledni + predposledni,
+  # bezpecna rezerva kdyby pres noc pribylo vic nez jedna stranka prispevku)
+  pages_back: 2
+  # pauza mezi requesty v sekundach (bud slusny k serveru)
+  delay_seconds: 4
+  # kolik polozek drzet ve vysledenem feedu
+  max_feed_items: 300
+  # vystupni soubory
+  feed_file: "feed.xml"
+  state_file: "state.json"
+  items_file: "items.json"
+
+feed:
+  title: "Fora - sledovana vlakna"
+  description: "Nove prispevky z vybranych vlaken MobilMania a FinExpert"
+  language: "cs"
