@@ -1,15 +1,5 @@
 [
   {
-    "id": 14181645,
-    "thread_id": 1120912,
-    "thread_name": "FinExpert vlakno 1120912",
-    "author": "wurk",
-    "published": "2026-08-13T18:09:24.891619+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14181645#p14181645",
-    "title": "[FinExpert vlakno 1120912] wurk: https://www.e15.cz/finexpert/banky-a-ucty/fio-banka-ma-novinky-zlevnuje-platebni-terminaly",
-    "html": "<div class=\"content\"><a class=\"postlink\" href=\"https://www.e15.cz/finexpert/banky-a-ucty/fio-banka-ma-novinky-zlevnuje-platebni-terminaly-pridava-letistni-salonky-i-fast-track-1434022\" ref=\"nofollow\">https://www.e15.cz/finexpert/banky-a-ucty/fio-banka-ma-novinky-zlevnuje-platebni-terminaly-pridava-letistni-salonky-i-fast-track-1434022</a></div>"
-  },
-  {
     "id": 14181736,
     "thread_id": 1120912,
     "thread_name": "FinExpert vlakno 1120912",
@@ -2998,5 +2988,15 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207752#p14207752",
     "title": "[FinExpert vlakno 1239073] Milos: Platil jsi plastovou kartou nebo mobilem? Měl jsi v Revolutu dostatek peněz? Při placení k",
     "html": "<div class=\"content\">Platil jsi plastovou kartou nebo mobilem? Měl jsi v Revolutu dostatek peněz? Při placení kartou na samoobslužné čerpací stanici totiž dochází k dočasné blokaci vyšší částky (tzv. předautorizaci, například 3000Kč, v tvém případě to bylo asi těch 100EUR), i když chceš tankovat třeba jen za 500Kč. Skutečná cena za natankované palivo se pak zaúčtuje za několik hodin až dnů, podle nastavení terminálu. Nejdříve jsi zkoušel tu samoobslužnou stanici a pak normální stanici? Pokud ano, tak je možné, že ti tam dočasně visela ta blokace a následná platba neprošlo z důvodu nedostatku peněz. Ta neprovedená platba z normální stanice je taky zanamenaná v historii transakcí a je u ní nějaká informace?</div>"
+  },
+  {
+    "id": 14208318,
+    "thread_id": 1239073,
+    "thread_name": "FinExpert vlakno 1239073",
+    "author": "losalamos",
+    "published": "2026-08-24T05:14:06.713799+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14208318#p14208318",
+    "title": "[FinExpert vlakno 1239073] losalamos: Nejprve byla samoobslužka s plastovou kartou, konaktně vloženo do terminálu. Tam to prodst",
+    "html": "<div class=\"content\">Nejprve byla samoobslužka s plastovou kartou, konaktně vloženo do terminálu. Tam to prodstě nešlo.<br/>Ještě jsem všechno podrobil dalšímu výzkumu, přece jen to bylo před pár týdny. Musím si nasypat popel na hlavu. Platba mi nakonec prošla v té obsluhované stanici, jen nešla bezkontaktně. Musel jsem kartu vložit do terminálu, takhle se to potom podařilo. Omlouvám se za mystifikaci, jsem pako. A díky za všechny odpovědi.</div>"
   }
 ]
