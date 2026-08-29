@@ -1,35 +1,5 @@
 [
   {
-    "id": 14185423,
-    "thread_id": 1200034,
-    "thread_name": "FinExpert vlakno 1200034",
-    "author": "Stroopwafel",
-    "published": "2026-08-13T18:08:34.369848+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14185423#p14185423",
-    "title": "[FinExpert vlakno 1200034] Stroopwafel: Zdravím, nemá někdo náhodou 5% slevový kód na DATART? Můžete mi dát vědět přes soukromou z",
-    "html": "<div class=\"content\">Zdravím, nemá někdo náhodou 5% slevový kód na DATART? Můžete mi dát vědět přes soukromou zprávu a můžeme se domluvit. Bylo by to velmi oceněno!</div>"
-  },
-  {
-    "id": 14185435,
-    "thread_id": 1200034,
-    "thread_name": "FinExpert vlakno 1200034",
-    "author": "Prcek",
-    "published": "2026-08-13T18:08:34.369848+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14185435#p14185435",
-    "title": "[FinExpert vlakno 1200034] Prcek: Ani jeden z kódů v předcházejících příspěvcích už nefunguje? Jinak těch 5 % na celý nákup ",
-    "html": "<div class=\"content\">Ani jeden z kódů v předcházejících příspěvcích už nefunguje? Jinak těch 5 % na celý nákup dávají k svátku (mail přijde ten den, kdy máš svátek), takže se stačí registrovat na Datartu pod správným jménem <img alt=\":-)\" src=\"./images/smilies/01.gif\" title=\":-)\"/>.</div>"
-  },
-  {
-    "id": 14188436,
-    "thread_id": 1256188,
-    "thread_name": "FinExpert vlakno 1256188",
-    "author": "fc70",
-    "published": "2026-08-13T18:09:50.307964+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14188436#p14188436",
-    "title": "[FinExpert vlakno 1256188] fc70: Starší výpisy prý budou nahrávat postupně. Kdyby to člověk věděl tři týdny před migrací, d",
-    "html": "<div class=\"content\">Starší výpisy prý budou nahrávat postupně.<br/><br/>Kdyby to člověk věděl tři týdny před migrací, dobře; ale mít přes dlouhý víkend odstávku a na jejím konci klientovi napsat, že s okamžitou platností používá jen One a že něco tam teď <span style=\"font-style: italic\">prostě není</span>, mi připadá fakt nedomyšlené.</div>"
-  },
-  {
     "id": 14188572,
     "thread_id": 1256188,
     "thread_name": "FinExpert vlakno 1256188",
@@ -2998,5 +2968,35 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14210709#p14210709",
     "title": "[FinExpert vlakno 1131529] slavo963: Asi je jenom API pro Gemini ale jo, je chytrejsi",
     "html": "<div class=\"content\">Asi je jenom API pro Gemini  <img alt=\":-))\" src=\"./images/smilies/03.gif\" title=\":-))\"/><br/>ale jo, je chytrejsi</div>"
+  },
+  {
+    "id": 14210948,
+    "thread_id": 1200034,
+    "thread_name": "FinExpert vlakno 1200034",
+    "author": "tulum",
+    "published": "2026-08-29T11:18:13.096039+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14210948#p14210948",
+    "title": "[FinExpert vlakno 1200034] tulum: Dnes jsem využil zajímavou kombinaci slevy u Dr.Max (eshop), kdy jsem využil kupon od ČS /",
+    "html": "<div class=\"content\">Dnes jsem využil zajímavou kombinaci slevy u Dr.Max (eshop), kdy jsem využil kupon od ČS / Airbank na 10% slevu nad 1200 Kč a k tomu se chytla i sleva 15% přes kupon SLEVA15 (ta platí do konce srpna).</div>"
+  },
+  {
+    "id": 14210958,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "xmasik",
+    "published": "2026-08-29T11:18:38.786021+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14210958#p14210958",
+    "title": "[FinExpert vlakno 1131529] xmasik: Ne, to opravdu API pro Gemini neni. Navic CSOB nepoužívá Gemini.",
+    "html": "<div class=\"content\">Ne, to opravdu API pro Gemini neni. Navic CSOB nepoužívá Gemini.</div>"
+  },
+  {
+    "id": 14210964,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "slavo963",
+    "published": "2026-08-29T11:18:38.786317+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14210964#p14210964",
+    "title": "[FinExpert vlakno 1131529] slavo963: to byl pokus o vtip",
+    "html": "<div class=\"content\">to byl pokus o vtip  <img alt=\";-)\" src=\"./images/smilies/02.gif\" title=\";-)\"/></div>"
   }
 ]
