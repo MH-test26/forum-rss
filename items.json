@@ -1,105 +1,5 @@
 [
   {
-    "id": 14207208,
-    "thread_id": 1239073,
-    "thread_name": "FinExpert vlakno 1239073",
-    "author": "Vasek06",
-    "published": "2026-08-21T05:07:20.951280+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207208#p14207208",
-    "title": "[FinExpert vlakno 1239073] Vasek06: Ano. Je to proste asi individualni.",
-    "html": "<div class=\"content\">Ano. Je to proste asi individualni.</div>"
-  },
-  {
-    "id": 14207225,
-    "thread_id": 1120912,
-    "thread_name": "FinExpert vlakno 1120912",
-    "author": "uzivatelnabaterky",
-    "published": "2026-08-21T05:06:42.316188+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207225#p14207225",
-    "title": "[FinExpert vlakno 1120912] uzivatelnabaterky: Dneska jsem zaregistroval změnu ve formátu informačních emailů při pohybu na účtu a platbě",
-    "html": "<div class=\"content\">Dneska jsem zaregistroval změnu ve formátu informačních emailů při pohybu na účtu a platbě kartou. Přijde mi, že to docela vyladili.<br/><br/>Příklady:<br/><br/>Dřív:<br/><br/>Na kontě * byla dne 18.08.2026 v 11:00:50 provedena transakce kartou * ve výši 19,90 CZK s popisem :Nákup: * CZE. 19.90 CZK<br/><br/><br/>Dnes:<br/><br/>Dobrý den,<br/> <br/>platba 260,00 CZK kartou * v *<br/> <br/>Podrobnosti transakce:<br/> <br/>Karta: *<br/>Datum a čas: 20.08.2026 v 13:18<br/>Číslo účtu: *<br/>Zůstatek po transakci: * CZK<br/> <br/>V případě otázek nás prosím kontaktujte pomocí služby Fio servis, kterou naleznete v našich aplikacích, nebo navštivte kteroukoli pobočku.<br/> <br/>Pokud si již nepřejete dostávat tyto informace, můžete si jejich zasílání kdykoli vypnout v nastavení našich aplikací.<br/> <br/>Fio banka<br/><br/>----<br/>Dřív:<br/><br/>Příjem na kontě: *<br/>Částka: 6 000,00<br/>VS:<br/>Zpráva příjemci:<br/>Aktuální zůstatek: *<br/>Protiúčet: *<br/>SS:<br/>KS:<br/><br/><br/>Dnes:<br/><br/>Dobrý den,<br/> <br/>zůstatek účtu * se 20.08.2026 v 13:49 zvýšil o 541,55 CZK.<br/> <br/>Další parametry<br/>Typ pohybu: Okamžitá příchozí platba<br/>Protistrana: *<br/>ID pokynu: *<br/>Uživatelský symbol: *<br/> <br/>Aktuální zůstatek: * CZK<br/> <br/>Pokud si již nepřejete dostávat tyto informace, můžete si jejich zasílání kdykoli vypnout v nastavení našich aplikací.<br/> <br/>Fio banka</div>"
-  },
-  {
-    "id": 14207229,
-    "thread_id": 1120912,
-    "thread_name": "FinExpert vlakno 1120912",
-    "author": "LaNov",
-    "published": "2026-08-21T05:06:42.316871+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207229#p14207229",
-    "title": "[FinExpert vlakno 1120912] LaNov: Emaily jsou víc \"ukecané\", ale nevím, jestli je to změna až tak moc k lepšímu. Spíš je dob",
-    "html": "<div class=\"content\">Emaily jsou víc \"ukecané\", ale nevím, jestli je to změna až tak moc k lepšímu. Spíš je dobře, že mají nově bezpečnostní upozornění (změna způsobu autorizace, neobvyklá IP atd.)-</div>"
-  },
-  {
-    "id": 14207362,
-    "thread_id": 1120912,
-    "thread_name": "FinExpert vlakno 1120912",
-    "author": "P_H_",
-    "published": "2026-08-22T05:01:45.070457+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207362#p14207362",
-    "title": "[FinExpert vlakno 1120912] P_H_: U push notifikací v aplikaci naopak provedli poměrně citelné sestručnění Původně Na kontě ",
-    "html": "<div class=\"content\">U push notifikací v aplikaci naopak provedli poměrně citelné sestručnění<br/><br/>Původně<br/><blockquote class=\"uncited\"><div>Na kontě XXX byla dne XX.XX v XX:XX provedena transakce kartou ****XXXX ve výši. X CZK s popisem: Nákup: název obchodu. X CZK</div></blockquote><br/>(opravdu tam suma byla vždy dvakrát, první suma byla suma transakce v měně nákupu, druhá přepočet na měnu účtu) <br/><br/>Nově<br/><blockquote class=\"uncited\"><div>Platba X CZK kartou ****XXXX v název obchodu </div></blockquote></div>"
-  },
-  {
-    "id": 14207390,
-    "thread_id": 1120912,
-    "thread_name": "FinExpert vlakno 1120912",
-    "author": "Gordon_F",
-    "published": "2026-08-22T05:01:45.070825+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207390#p14207390",
-    "title": "[FinExpert vlakno 1120912] Gordon_F: Spíš by mne zajímalo, zda mailové notifikace už chodí opravdu aktuálně, nebo zda si stále ",
-    "html": "<div class=\"content\">Spíš by mne zajímalo, zda mailové notifikace už chodí opravdu aktuálně, nebo zda si stále dělají co chtějí. (Tedy např. přijde platba, vy zadáte tři odchozí platby a výsledkem je že přijdou dva maily na první a třetí odchozí platbu, po půl hodině přijde mail na tu příchozí platbu a po další hodině přijde mail oznamující i tu druhou odchozí.)</div>"
-  },
-  {
-    "id": 14207578,
-    "thread_id": 1120912,
-    "thread_name": "FinExpert vlakno 1120912",
-    "author": "Ernest Leclerc",
-    "published": "2026-08-22T05:01:45.071130+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207578#p14207578",
-    "title": "[FinExpert vlakno 1120912] Ernest Leclerc: Zdravím, notifikace mi chodí nepravidelně a nahodile. Vím zhruba kdy mi chodí výplata, tak",
-    "html": "<div class=\"content\">Zdravím,<br/>notifikace mi chodí nepravidelně a nahodile. Vím zhruba kdy mi chodí výplata, tak ji hned přepošlu na spořák. Notifikace o příchozí platbě výplaty dorazí cca s dvouhodinovým zpožděním, ale už se zůstatkem po odchozí platbě. I notifikace o převodu na SÚ většinou dorazí dříve. Při převodu na moje účty v jiné bance též dorazí mail o příchozí platbě dříve než z FIA odchozí. Potvrzuji i to, že upozornění nechodí chronologicky.</div>"
-  },
-  {
-    "id": 14207610,
-    "thread_id": 1239073,
-    "thread_name": "FinExpert vlakno 1239073",
-    "author": "losalamos",
-    "published": "2026-08-22T05:02:23.795511+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207610#p14207610",
-    "title": "[FinExpert vlakno 1239073] losalamos: Nepodařilo se mi zaplatit Revolutkou tankování auta na Azorech. Ani u samoobslužky (tam js",
-    "html": "<div class=\"content\">Nepodařilo se mi zaplatit Revolutkou tankování auta na Azorech. Ani u samoobslužky (tam jsem si říkal že třeba dobře nerozumím terminálu, nebo něco dělám špatně, byť mi přes rameno koukala nějaká místňačka, která také tankovala) ani u normální obsluhované stanice.  Kde bych mohl hledat problém? Díky.</div>"
-  },
-  {
-    "id": 14207657,
-    "thread_id": 1239073,
-    "thread_name": "FinExpert vlakno 1239073",
-    "author": "Milos",
-    "published": "2026-08-22T05:02:23.795813+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207657#p14207657",
-    "title": "[FinExpert vlakno 1239073] Milos: A terminál ti napsal nějakou chybovou hlášku? Platba se ti objevila v Revolutu jako neprov",
-    "html": "<div class=\"content\">A terminál ti napsal nějakou chybovou hlášku? Platba se ti objevila v Revolutu jako neprovedená s nějakou informací nebo není v historii transakcí vůbec zaznamenaná?</div>"
-  },
-  {
-    "id": 14207698,
-    "thread_id": 1200034,
-    "thread_name": "FinExpert vlakno 1200034",
-    "author": "Rop",
-    "published": "2026-08-22T05:00:53.121623+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207698#p14207698",
-    "title": "[FinExpert vlakno 1200034] Rop: Nemáte někdo kupon do Planeo při nákupu za cca 5800 Kč? Dík.",
-    "html": "<div class=\"content\">Nemáte někdo kupon do Planeo při nákupu za cca 5800 Kč? Dík.</div>"
-  },
-  {
-    "id": 14207701,
-    "thread_id": 1200034,
-    "thread_name": "FinExpert vlakno 1200034",
-    "author": "Vasek06",
-    "published": "2026-08-22T05:00:53.121915+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14207701#p14207701",
-    "title": "[FinExpert vlakno 1200034] Vasek06: SZ",
-    "html": "<div class=\"content\">SZ</div>"
-  },
-  {
     "id": 14207730,
     "thread_id": 1239073,
     "thread_name": "FinExpert vlakno 1239073",
@@ -2998,5 +2898,105 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231031#p14231031",
     "title": "[FinExpert vlakno 1131529] Milos: Jestli ses na kurz díval teď v noci, tak to e-směnárna nabízí běžný kurz. Lepší kurz nabíz",
     "html": "<div class=\"content\">Jestli ses na kurz díval teď v noci, tak to e-směnárna nabízí běžný kurz. Lepší kurz nabízí jen v pracovní dny a během pracovní doby.</div>"
+  },
+  {
+    "id": 14231436,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "DoubleSix",
+    "published": "2026-10-09T11:28:20.751295+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231436#p14231436",
+    "title": "[FinExpert vlakno 1131529] DoubleSix: eSměnárna je nepoužitelná i v pracovní dobu, je tam běžný devizový kurz ČSOB. Zlatá Rajfka",
+    "html": "<div class=\"content\">eSměnárna je nepoužitelná i v pracovní dobu, je tam běžný devizový kurz ČSOB. Zlatá Rajfka</div>"
+  },
+  {
+    "id": 14231452,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "Milos",
+    "published": "2026-10-09T11:28:24.990618+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231452#p14231452",
+    "title": "[FinExpert vlakno 1131529] Milos: Nevím na základě čeho to tvrdíš, ale aktuálně má E-Směnárna následující kurzy, které se od",
+    "html": "<div class=\"content\">Nevím na základě čeho to tvrdíš, ale aktuálně má E-Směnárna následující kurzy, které se od těch běžných devizových kurzů liší a zároveň jsou lepší než má RB Směnárna:<br/>24,468 CZK/EUR (běžný kurz 25,058)<br/>21,847 CZK/USD (běžný kurz 22,374)<br/><br/>Na přiložených obrázcích jsou kdyžtak aktuální kurzy EUR a USD u konkurenčních institucí pro porovnání.</div>"
+  },
+  {
+    "id": 14231711,
+    "thread_id": 1078058,
+    "thread_name": "FinExpert vlakno 1078058",
+    "author": "Milos",
+    "published": "2026-10-09T11:29:04.641351+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231711#p14231711",
+    "title": "[FinExpert vlakno 1078058] Milos: V termínu 1.10.2026 až 30.11.2026 probíhá soutěž o Alza poukazy v ceně 5000 Kč a 50000 Kč ",
+    "html": "<div class=\"content\">V termínu 1.10.2026 až 30.11.2026 probíhá soutěž o Alza poukazy v ceně 5000 Kč a 50000 Kč v celkové hodnotě 1,3 milionu. Za každých souhrně uhrazených 5000 Kč kartou Mastercard se získá 1 los, maximálně lze získat 10 losů za jeden kalendářní měsíc, každý měsíc proběhne jedno slosování. Podrobná pravidla <a class=\"postlink\" href=\"https://www.unicreditbank.cz/content/dam/cee2020-pws-cz/cz-dokumenty/kampane/Podminky-souteze-o-poukazy-alza-01102026.pdf\" ref=\"nofollow\">zde</a>.</div>"
+  },
+  {
+    "id": 14231759,
+    "thread_id": 1078058,
+    "thread_name": "FinExpert vlakno 1078058",
+    "author": "Pospa874",
+    "published": "2026-10-09T11:29:04.641613+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231759#p14231759",
+    "title": "[FinExpert vlakno 1078058] Pospa874: Milos: na webu explicitně píšou, že se to vztahuje jen na debetní karty, v těch podmínkách",
+    "html": "<div class=\"content\">Milos: na webu explicitně píšou, že se to vztahuje jen na debetní karty, v těch podmínkách v PDF to tak nevidím. Bude to platit i na platby kreditkou MC?</div>"
+  },
+  {
+    "id": 14231774,
+    "thread_id": 1078058,
+    "thread_name": "FinExpert vlakno 1078058",
+    "author": "Milos",
+    "published": "2026-10-09T11:29:04.641847+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231774#p14231774",
+    "title": "[FinExpert vlakno 1078058] Milos: Z pravidel vyplývá, že se musí jednat o platby debetní kartou: Platby kartou Mastercard = ",
+    "html": "<div class=\"content\">Z pravidel vyplývá, že se musí jednat o platby debetní kartou:<br/><br/><span style=\"font-style: italic\">Platby kartou Mastercard = veškeré platby za zboží nebo služby provedené během Období trvání Soutěže u obchodníků nebo na internetu <span style=\"font-weight: bold\"><span style=\"text-decoration: underline\">platební kartou Mastercard vydanou k Běžnému účtu</span></span>.</span></div>"
+  },
+  {
+    "id": 14231791,
+    "thread_id": 301647,
+    "thread_name": "FinExpert vlakno 301647",
+    "author": "Persbrandt",
+    "published": "2026-10-09T11:28:38.230077+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231791#p14231791",
+    "title": "[FinExpert vlakno 301647] Persbrandt: Co myslíte, když nakoupím kartou Mbank v eshopu,pak ten produkt vrátím, oni mi vrátí peníz",
+    "html": "<div class=\"content\">Co myslíte, když nakoupím kartou Mbank v eshopu,pak ten produkt vrátím, oni mi vrátí peníze zpět na kartu, tak bude se i tato vrácená platba počítat do 5 plateb kartou  požadovaných pro lepší úrok na spořáku? <br/>Já bych normálně řekl že jo, ale teď třeba mi přišla upoutávka na nějakou soutěž UniCredit, kde je taky podmínkou účasti nějaká útrata kartou a tam mají ve výluce výslovně uvedeny platby kartou za nákupy, které zákazník zrušil a které byly vráceny zpět na kartu. Je to sice UniCredit,  aké teď už si ani tady tak úplně jistý nejsem.<br/>Kdyby mi ty peníze vrátili v hotovosti, tak tam je to celkem jasné, to jde mimo banku, ale když ten obchod vrací peníze pouze na kartu?</div>"
+  },
+  {
+    "id": 14231805,
+    "thread_id": 301647,
+    "thread_name": "FinExpert vlakno 301647",
+    "author": "technikus",
+    "published": "2026-10-09T11:28:38.230348+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231805#p14231805",
+    "title": "[FinExpert vlakno 301647] technikus: AI tvrdí Pokud provedete platbu na e-shopu, kterou následně stornujete (odstoupíte od smlo",
+    "html": "<div class=\"content\">AI tvrdí<br/><br/><blockquote class=\"uncited\"><div>Pokud provedete platbu na e-shopu, kterou následně stornujete (odstoupíte od smlouvy) a obchodník vám vrátí peníze, z pohledu plnění podmínek pro mSpořicí účet Plus nastanou dvě věci:<br/><br/>• Počet plateb (5 plateb měsíčně): Původní platba na e-shopu se do splněného limitu započítá. Bankovní systémy mBank vyhodnocují splnění podmínky podle počtu provedených a zaúčtovaných odchozích transakcí kartou. Následná vratka (kreditní transakce) již provedenou platbu z historie neodmaže.<br/><br/>• Pravidelný příjem (15 000 Kč měsíčně): Vrácené peníze od obchodníka se nepočítají jako povinný příjem. Podmínkou mBank je, aby na běžný účet mKonto dorazil standardní příchozí příkaz (např. výplata, převod z jiné banky nebo od jiné osoby). Vratky plateb kartou (tzv. chargeback nebo refund) systém identifikuje jako specifický typ operace a do obratu příjmů je nezahrnuje.<br/><br/>Pokud byste se kvůli vrácení zboží ocitli na hraně splnění podmínek, pro jistotu udělejte jednu drobnou platbu kartou navíc (např. nákup pečiva), abyste měli stoprocentní jistotu, že podmínku 5 plateb splníte.</div></blockquote></div>"
+  },
+  {
+    "id": 14231807,
+    "thread_id": 301647,
+    "thread_name": "FinExpert vlakno 301647",
+    "author": "minarjo",
+    "published": "2026-10-09T11:28:38.230640+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231807#p14231807",
+    "title": "[FinExpert vlakno 301647] minarjo: Já nechápu, proč někdo vůbec řeší tak nejisté a banální věci. To je takový problém tu dano",
+    "html": "<div class=\"content\">Já nechápu, proč někdo vůbec řeší tak nejisté a banální věci. To je takový problém tu danou nejistou platbu pokrýt třeba nákupem kafe či něčeho jiného v automatu, které jsou dnes na každém rohu cestou do práce (nádraží atd.), leckde i na pracovišti? Nebo třeba koláčem v pekařství všude možně... To je tak 30 vteřin \"práce\", takovou transakci \"pro jistotu\" danou kartou udělat, napsat sem ten dotaz muselo trvat o dost déle <img alt=\":)\" src=\"./images/smilies/01.gif\" title=\":-)\"/>.<br/><br/>Jinak AI v těchto věcech zásadně nevěřím, mnohdy mixuje info od různých obchodníků (nejen bank) dohromady a vytvoří tím lživou odpověď. Tvrdí třeba (zkušenost z tohoto týdne), že Dárkovou kartu Albert lze v pohodě \"do nuly\" dočerpat i u samoobslužné pokladny. Ale ouha, minimálně ve dvou Albertech software pokladen zamítá platbu, pokud je nákup vyšší než hodnota dárkové karty (ani obsluha si neví rady) a lze to udělat jen u klasické pokladny. Přitom u jiných obchodů jako Lidl či Penny to u samoobslužných lze (samy nabídnou částku, kolik max. lze z dané DK zaplatit) a možná toto si AI plete.</div>"
+  },
+  {
+    "id": 14231847,
+    "thread_id": 301647,
+    "thread_name": "FinExpert vlakno 301647",
+    "author": "technikus",
+    "published": "2026-10-09T11:28:38.230920+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231847#p14231847",
+    "title": "[FinExpert vlakno 301647] technikus: Je fakt, že udělat šestou platbu pro jistotu např. za kafe, snídani, kino, elektřinu, jízd",
+    "html": "<div class=\"content\">Je fakt, že udělat šestou platbu pro jistotu např. za kafe, snídani, kino, elektřinu, jízdenku apod. není nic proti ničemu.</div>"
+  },
+  {
+    "id": 14231871,
+    "thread_id": 301647,
+    "thread_name": "FinExpert vlakno 301647",
+    "author": "pulmann",
+    "published": "2026-10-09T11:28:38.231141+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14231871#p14231871",
+    "title": "[FinExpert vlakno 301647] pulmann: Zpravidla dělám šestou platbu.",
+    "html": "<div class=\"content\">Zpravidla dělám šestou platbu.</div>"
   }
 ]
