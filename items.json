@@ -1,25 +1,5 @@
 [
   {
-    "id": 14209210,
-    "thread_id": 1142003,
-    "thread_name": "FinExpert vlakno 1142003",
-    "author": "technikus",
-    "published": "2026-08-26T05:06:29.716798+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14209210#p14209210",
-    "title": "[FinExpert vlakno 1142003] technikus: Vyhrál někdo zdejší v soutěži \"limitované edice Air Bank\"? 17.8.se mělo losovat",
-    "html": "<div class=\"content\">Vyhrál někdo zdejší v soutěži \"limitované edice Air Bank\"?<br/>17.8.se mělo losovat</div>"
-  },
-  {
-    "id": 14209259,
-    "thread_id": 1256188,
-    "thread_name": "FinExpert vlakno 1256188",
-    "author": "rabb",
-    "published": "2026-08-26T05:07:35.215504+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14209259#p14209259",
-    "title": "[FinExpert vlakno 1256188] rabb: Ohledně Spořícího účtu+ vs TOP je  to trochu komplikované. Už jsem po tom trochu pátral a ",
-    "html": "<div class=\"content\">Ohledně Spořícího účtu+ vs TOP je  to trochu komplikované. Už jsem po tom trochu pátral a zjistil jsem, že od 17.7. postupně vydali několik aktualizací ohledně toho, jak počítají bonusový úrok, viz <!-- m --><a class=\"postlink\" href=\"https://www.creditas.cz/sporici-ucet\" ref=\"nofollow\">https://www.creditas.cz/sporici-ucet</a><!-- m -->.<br/><br/>Rozeberu jen případ s investicemi. Pokud jsem to pochopil správně, tak nezáleží na tom, v jakém bankovnictví jste, ale na tom, jaké SÚ máte založené. <br/><br/>Pokud máte jen SÚ+, tak ten se vám úročí úrokovým bonusem. A mělo by to tak být i po migraci do Creditas One. Jestli se tam ale bude objevovat i bonusové úročení v detailech účtu to nevím. To jsem v podmínkách nenašel.<br/><br/>Pokud ale máte jak SU+, tak TOP, tak podle podmínek od 17.7. nedostanete bonusový úrok na SU+, ale na SÚ TOP. Už před migrací do Creditas One 11.8. jsem si všiml, že mi úrok na SU+ klesl na 3,25%. O tomto bohužel Creditas moc transparentně neinformoval. Z infolinky mi potvrdili, že od 17.7. jsou nové podmínky, takže bonusový úrok na SU+ nenáleží. Bohužel jsem se zatím nedozvěděl, jestli je to hned k 17.7. nebo od 1. dalšího měsíce. Každopádně nově teď by se bonusové úročení mělo připisovat na SÚ TOP. V podmínkách píšou, že zvýhodněný úrok v IB ani SB vidět není, ale na konci měsíce se přičte úrok 3,25% a pak zvýhodnění 1%. Tak uvidíme. <br/><br/>Každopádně ten způsob (ne)informování není moc proklientský. Mohli aspoň poslat mail, že se podmínky mění a pokud máte SÚ TOP, bude místo SÚ+ bonusově zvýhodněný SÚ TOP. Zjistil jsme to až cca měsíc po změně, takže za ten měsíc přijdu o zvýhodněný úrok. No, možná to půjde vyreklamovat. Uvidíme.</div>"
-  },
-  {
     "id": 14209365,
     "thread_id": 1142003,
     "thread_name": "FinExpert vlakno 1142003",
@@ -2998,5 +2978,25 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14233017#p14233017",
     "title": "[FinExpert vlakno 1142003] myšpulín: Tak dnes už mě neaktualizovaná aplikace MyAir nenechala přihlásit a tím pádem pro mě defin",
     "html": "<div class=\"content\">Tak dnes už mě neaktualizovaná aplikace MyAir nenechala přihlásit a tím pádem pro mě definitivně skončila možnost nabíjení účtu kartou. Ještě 1.10. mi to fungovalo. Je tu ještě někdo komu nabíjení účtu kartou funguje?</div>"
+  },
+  {
+    "id": 14233032,
+    "thread_id": 1142003,
+    "thread_name": "FinExpert vlakno 1142003",
+    "author": "__Pavel",
+    "published": "2026-10-12T12:19:46.008312+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14233032#p14233032",
+    "title": "[FinExpert vlakno 1142003] __Pavel: Jj, já to zkoušel už včera a tak jsem hned věděl, že po aktualizaci je konec. Byl to ale h",
+    "html": "<div class=\"content\">Jj, já to zkoušel už včera a tak jsem hned věděl, že po aktualizaci je konec. Byl to ale hezký půlrok dobíječek.</div>"
+  },
+  {
+    "id": 14233175,
+    "thread_id": 1142003,
+    "thread_name": "FinExpert vlakno 1142003",
+    "author": "malyp",
+    "published": "2026-10-12T12:19:46.008581+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14233175#p14233175",
+    "title": "[FinExpert vlakno 1142003] malyp: Bohužel v tomto je Airbank dle mých zkušeností docela zvláštní vymyslí funkci kterou zruší",
+    "html": "<div class=\"content\">Bohužel v tomto je Airbank dle mých zkušeností docela zvláštní vymyslí funkci kterou zruší přesto že je přínosem a naopak udělá funkce které spíš práci komplikují.<br/>Taky mi chybí možnost Přidat peníze kartou.<br/>Vytvoří podnikatelské konto, které funguje jinak než soukromý účet.<br/>Tvrdí že klienti radši vytváří faktury v mobilu. A neumožní je vytvářet v PC. A na platbu v hotovosti lze vydat jen fakturu přitom na malou částku stačí jednoduchý příjmový doklad.<br/>Do QR kódu \"Zaplať mi\" nejde vložit variabilní symbol který se běžně používá na identifikaci platby z faktury.</div>"
   }
 ]
