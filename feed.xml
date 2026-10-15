@@ -7,7 +7,112 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 14 Oct 2026 09:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:19:59 +0000</lastBuildDate>
+    <item>
+      <title>[FinExpert vlakno 1078058] minarjo: __Pavel píše: ...při založení přece vzniknou účty dva a ten druhý (spořící) pak přes mobil</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235280#p14235280</link>
+      <description><![CDATA[<div class="content"><blockquote><div><cite>__Pavel píše:</cite>...při založení přece vzniknou účty dva a ten druhý (spořící) pak přes mobilitu asi nezruším.</div></blockquote><br/>Omyl, cca před rokem po konci obdobné akce jsem mobilitou zadanou z appky Raiffeisenbank rušil oba UCB účty (mobilita zadaná na jeden a ihned poté i druhý účet) a UCB oba zrušila v pohodě. Ono je to tím, že i ten "spořící" účet je v UCB v podstatě běžný (po zřízení označený jako Běžný 2, pokud si pamatuji, umí i platební styk atd.). Takže v tom fakt problém není.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235280#p14235280</guid>
+      <pubDate>Thu, 15 Oct 2026 09:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1078058] __Pavel: Právě tím, že účet zrušíš, se podle této kampaně stáváš po 12 (resp. 36) měsících novým kl</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235277#p14235277</link>
+      <description><![CDATA[<div class="content">Právě tím, že účet zrušíš, se podle této kampaně stáváš po 12 (resp. 36) měsících novým klientem.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235277#p14235277</guid>
+      <pubDate>Thu, 15 Oct 2026 09:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] minarjo: wit.cz píše: bylo by možné ten hyperlink odebrat a ideálně i https nahradit třeba hxxps? P</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235262#p14235262</link>
+      <description><![CDATA[<div class="content"><blockquote><div><cite>wit.cz píše:</cite>bylo by možné ten hyperlink odebrat a ideálně i https nahradit třeba hxxps?</div></blockquote><br/>PROČ jako bylo nezbytné zneplatnit ten link? Jsem tam přece psal, že jsem ho ČSOB přes Kate nahlásil, banka samosebou zajistila jeho znepřístupnění, jako jindy v podobných případech. V tomto banky jednají fakt rychle, když někdo podvrhuje jejich web, na to jsou alergické, chce jim to hlásit no. Tento můj link přestal být funkční už pár hodin od nahlášení (ale nemusel jsem být první, kdo to hlásil). Navíc nebyl rizikový v tom, že by tam byl nějaký vir atd., šlo prostě o imitaci formuláře banky pro objednání hovoru "bezpečnostního bankéře". Naopak stálo za to prohlédnout si zdařilost toho webu i v detailech, podvodníci se zlepšují <img alt=":(" src="./images/smilies/27.gif" title=":-("/>.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235262#p14235262</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1078058] mufallo: Ano vzniknou dva, běžný+spořák, bohužel už nejsem nový zákazník. Takových odložených vysos</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235261#p14235261</link>
+      <description><![CDATA[<div class="content">Ano vzniknou dva, běžný+spořák, bohužel už nejsem nový zákazník. Takových odložených vysosaných účtů už všude mám...nic nestojí, ničemu nevadí, proč rušit?</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235261#p14235261</guid>
+      <pubDate>Thu, 15 Oct 2026 09:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] tramin: Dá se někde zjistit počet volných vstupů na ČSOB Visa Infinite. Vím, že jsou 2, ale mám 4 </title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235254#p14235254</link>
+      <description><![CDATA[<div class="content">Dá se někde zjistit počet volných vstupů na ČSOB Visa Infinite. Vím, že jsou 2, ale mám 4 karty se vstupy do salonků a mám v tom bordel. Tahle bohužel není pod LuongeKey.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235254#p14235254</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] xls: A to je ještě půlka problému. V RB si karty v případě potřeby prioritně stáhnou EUR/USD z </title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235249#p14235249</link>
+      <description><![CDATA[<div class="content">A to je ještě půlka problému. V RB si karty v případě potřeby prioritně stáhnou EUR/USD z příslušné složky. U ČSOB, pokud by s tím chtěl člověk platit, si musí udělat další kartu.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235249#p14235249</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] PULPANM: Take mam eur i usd zalozeny v sb a bez problemu. Vidim ale, ze v RB je ta multimena daleko</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235218#p14235218</link>
+      <description><![CDATA[<div class="content">Take mam eur i usd zalozeny v sb a bez problemu. Vidim ale, ze v RB je ta multimena daleko jednodušší</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235218#p14235218</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] Milos: Takové různé individuální problémy se vyskutují u všech bank, nejenom u ČSOB. Většině klie</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235118#p14235118</link>
+      <description><![CDATA[<div class="content">Takové různé individuální problémy se vyskutují u všech bank, nejenom u ČSOB. Většině klientů ČSOB lze devizový účet bez problémů založit online (já mezi takové klienty patřím), a pak se najde pár klientů, kteří mají se založením problém. V takovém případě obvykle ale stačí kontaktovat banku nebo osobního bankéře (telefonicky, písemně přes IB/SB) a vzniklý problém se obvykle vyřeší bez nutnosti návštěvy pobočky.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235118#p14235118</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] xls: Tak ono to mělo jít, prostě se něco zaseklo. To je jedno, chtěl jsem jen prozkoumat tu smě</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235061#p14235061</link>
+      <description><![CDATA[<div class="content">Tak ono to mělo jít, prostě se něco zaseklo. To je jedno, chtěl jsem jen prozkoumat tu směnárnu. Ve skutečnosti ČSOB není špatná, co před 10 lety fungovalo/nefungovalo, funguje/nefunguje úplně stejně. Nejsou změny k lepšímu, ale naštěstí ani k horšímu.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235061#p14235061</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] jirkau: xls píše: Tak se ČSOB ukázala opět jako prakticky nepoužitelná. Zkusil jsem založit devizo</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235048#p14235048</link>
+      <description><![CDATA[<div class="content"><blockquote><div><cite>xls píše:</cite>Tak se ČSOB ukázala opět jako prakticky nepoužitelná. Zkusil jsem založit devizový účet v IB, tam mě to poslalo pouze na ČSOB Smart. Když jsem to pak naklikal tam (mám Premium), tak mě to poslal pro dokončení žádosti na pobočku (kterou kromě jiného ani nemám). Jsou to dobrý komici.</div></blockquote><br/><br/>Já zakládal devizový účet v ČSOB loni a vše proběhlo online, nikam jsem nemusel. To vypadá, že couvají <img alt=":-)" src="./images/smilies/01.gif" title=":-)"/></div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235048#p14235048</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] slavo963: @xls zkus jindy, mel jsem to podobne</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14234982#p14234982</link>
+      <description><![CDATA[<div class="content">@xls<br/>zkus jindy, mel jsem to podobne</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14234982#p14234982</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1078058] __Pavel: Kampaň pěkná, ale při založení přece vzniknou účty dva a ten druhý (spořící) pak přes mobi</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14234980#p14234980</link>
+      <description><![CDATA[<div class="content">Kampaň pěkná, ale při založení přece vzniknou účty dva a ten druhý (spořící) pak přes mobilitu asi nezruším. Na pobočku rozhodně nepůjdu, takže nic.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14234980#p14234980</guid>
+      <pubDate>Thu, 15 Oct 2026 09:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] outlier: Někdy ani pobočka nestačí. Když chcete zrušit podnikatelský účet, tak vám na pobočce tvrdí</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14234976#p14234976</link>
+      <description><![CDATA[<div class="content">Někdy ani pobočka nestačí. Když chcete zrušit podnikatelský účet, tak vám na pobočce tvrdí, že to jde jen přes vašeho "podnikatelského bankéře" - ten je ale z jiné pobočky a je tam jen někdy a sjednání schůzky v pracovní době je dost komplikované. Mezitím se každý měsíc i při nulové aktivitě strhává majiteli 80 Kč, protože to je nějaký historický tarif, kde je za vše poplatek.<br/><br/>Jak jim poslat výpověď? Musí to přijmout z OSVČ datové schránky nebo musí být dopis s ověřeným podpisem?</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14234976#p14234976</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1131529] xls: Tak se ČSOB ukázala opět jako prakticky nepoužitelná. Zkusil jsem založit devizový účet v </title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14234973#p14234973</link>
+      <description><![CDATA[<div class="content">Tak se ČSOB ukázala opět jako prakticky nepoužitelná. Zkusil jsem založit devizový účet v IB, tam mě to poslalo pouze na ČSOB Smart. Když jsem to pak naklikal tam (mám Premium), tak mě to poslal pro dokončení žádosti na pobočku (kterou kromě jiného ani nemám). Jsou to dobrý komici.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14234973#p14234973</guid>
+      <pubDate>Thu, 15 Oct 2026 09:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1078058] mufallo: Nová kampaň, bonus až 4000,- pro nové klienty https://www.unicreditbank.cz/content/da ... </title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14234927#p14234927</link>
+      <description><![CDATA[<div class="content">Nová kampaň, bonus až 4000,- pro nové klienty<br/><br/><!-- m --><a class="postlink" href="https://www.unicreditbank.cz/content/dam/cee2020-pws-cz/cz-dokumenty/kampane/Podminky-marketingove-kampane-ucty-start-open-top-s-odmenou-4000-01102026.pdf" ref="nofollow">https://www.unicreditbank.cz/content/da ... 102026.pdf</a><!-- m --></div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14234927#p14234927</guid>
+      <pubDate>Thu, 15 Oct 2026 09:19:33 +0000</pubDate>
+    </item>
     <item>
       <title>[FinExpert vlakno 1131529] L - Core: Jak probíhá akce "5 plateb kartou 300 Kč odměna příští měsíc, celkem až 1500 Kč", přišla u</title>
       <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14234696#p14234696</link>
@@ -2002,111 +2107,6 @@
       <description><![CDATA[<div class="content">FIO si neumí načíst novou občanku přes bankovní identitu? Volali mi z pobočky, že se mám zastavit s novou občankou...</div>]]></description>
       <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14212081#p14212081</guid>
       <pubDate>Tue, 01 Sep 2026 09:33:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1200034] TommasCZ: Nemá někdo prosím slevu na Datart? Budu kupovat TV. Děkuji! EDIT: Použitý kód na 200,- co </title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14212016#p14212016</link>
-      <description><![CDATA[<div class="content">Nemá někdo prosím slevu na Datart? Budu kupovat TV. Děkuji!<br/>EDIT: Použitý kód na 200,- co jsem dostal přes SZ. Moc děkuji!<br/><br/>EDIT2: ještě jsem na vlastní účet pak dostal tento kód, jestli někdo využije: <br/>Datart 200 při nákupu nad 2000.<br/>M294334333aa</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14212016#p14212016</guid>
-      <pubDate>Tue, 01 Sep 2026 09:33:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1131529] mate59: Mně Extra spoření 3,6% na půl roku dali a využívám ho,pak mám Premium konto,které občas vy</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211861#p14211861</link>
-      <description><![CDATA[<div class="content">Mně Extra spoření 3,6% na půl roku dali a využívám ho,pak mám Premium konto,které občas využiji na příležitostnou platbu,využívám kreditku na 20-25 plateb měsíčně a mám TV 3,2% na 3měsíce.Ten hned jak skončí,převedu na extra.</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211861#p14211861</guid>
-      <pubDate>Tue, 01 Sep 2026 09:33:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1078058] Milos: Navždy ne, ale na jeden měsíc asi ano, viz. definice investic dle UCB: Pravidelná investic</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211854#p14211854</link>
-      <description><![CDATA[<div class="content">Navždy ne, ale na jeden měsíc asi ano, viz. definice investic dle UCB:<br/><br/><span style="font-style: italic"><span style="font-weight: bold">Pravidelná investice</span> – za splnění podmínky se považuje založení či existence Pravidelné investice ve výši min. 2 000 Kč měsíčně. Pokud v některém z měsíců nedojde k úhradě sjednané částky, podmínka Pravidelné investice se v takovém kalendářním měsíci nepovažuje za splněnou.<br/><br/><span style="font-weight: bold">Jednorázová investice</span> – sjednání či existence produktu Jednorázové investice v minimální výši 50 000 Kč. Rozhodným datem investice je datum úhrady sjednané částky.</span></div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211854#p14211854</guid>
-      <pubDate>Tue, 01 Sep 2026 09:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1078058] Peta-x: U těch podmínek úročení, teoreticky  když jednorázově pošlu dejme tomu 51tis Kč na investi</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211844#p14211844</link>
-      <description><![CDATA[<div class="content">U těch podmínek úročení, teoreticky  když jednorázově pošlu dejme tomu 51tis Kč na investice a po pár dnech to vyberu, tak už mám od této podmínky navždy pokoj a stačí pro úrok 4,3% dále jen 10x mesíčně zaplatit kartou, chápu to dobře?</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211844#p14211844</guid>
-      <pubDate>Tue, 01 Sep 2026 09:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1131529] dasvoboda: Johny11111 píše: A když tu čtu, že někteří z vás mají 3,6 % nebo 3,8 % de facto bez podmín</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211843#p14211843</link>
-      <description><![CDATA[<div class="content"><blockquote><div><cite>Johny11111 píše:</cite>A když tu čtu, že někteří z vás mají 3,6 % nebo 3,8 % de facto bez podmínek, tak o jejich pravdomluvnosti mám vážné pochyby. Vím, jinde jsou úroky podobné a bez dohadování. Ale bylo by hezké, kdyby se s nimy podařilo udržet nějaké rozumné vztahy. Tak se chci zeptat, máte nějaký nápad, jak s bankou najít nějakou domluvu, aby taky nabídly nějaký lepší úrok?</div></blockquote><br/><br/>Tak já u nich mám penzijko na 1700 měsíčně, takže bych těch 1500 investic měl i tak, možná to k nabídce na úrok bez podmínek pomáhá. To penzijko je ale spíš jen průměrné, NN nebo Conseq teď určitě měli vyšší zhodnocení, od ledna při nových podmínkách ale budou nejspíš všechna penzijka stejně hodně podobná. Premium nemám, tam jsou pak ty podmínky přísnější.</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211843#p14211843</guid>
-      <pubDate>Tue, 01 Sep 2026 09:33:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1256188] dasvoboda: Jste na ně hrozně nároční, je to nízkonákladová banka, která s vyplazeným jazykem zvládla </title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211842#p14211842</link>
-      <description><![CDATA[<div class="content">Jste na ně hrozně nároční, je to nízkonákladová banka, která s vyplazeným jazykem zvládla sloučit účty s Maxbankou, jsou rádi, že jim to od září bude vůbec nějak fungovat.</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211842#p14211842</guid>
-      <pubDate>Tue, 01 Sep 2026 09:34:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1131529] PULPANM: servpack píše: Aktuální 2T repo sazba ČNB je 3,75 %, 3,6 nebo dokonce 3,8 % je tak velice </title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211728#p14211728</link>
-      <description><![CDATA[<div class="content"><blockquote><div><cite>servpack píše:</cite>Aktuální 2T repo sazba ČNB je 3,75 %, 3,6 nebo dokonce 3,8 % je tak velice pěkný úrok, co bys chtěl? Obecně se dá říct, že úroky na spořicích produktech jsou v této době, vzhledem k sazbě ČNB, abnormálně vysoko.<br/><br/>A co máš proti RB? Já jsem s ní spokojený a využívám ji nyní v podstatě jako svou hlavní banku.</div></blockquote><br/>Také mám RB jako hlavní banku</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211728#p14211728</guid>
-      <pubDate>Mon, 31 Aug 2026 11:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1131529] Johny11111: Co bych chtěl? V ideálním případě právě těch 3,6-3,8 %, o kterých píšu.</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211689#p14211689</link>
-      <description><![CDATA[<div class="content">Co bych chtěl? V ideálním případě právě těch 3,6-3,8 %, o kterých píšu.</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211689#p14211689</guid>
-      <pubDate>Mon, 31 Aug 2026 11:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1131529] servpack: Aktuální 2T repo sazba ČNB je 3,75 %, 3,6 nebo dokonce 3,8 % je tak velice pěkný úrok, co </title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211638#p14211638</link>
-      <description><![CDATA[<div class="content">Aktuální 2T repo sazba ČNB je 3,75 %, 3,6 nebo dokonce 3,8 % je tak velice pěkný úrok, co bys chtěl? Obecně se dá říct, že úroky na spořicích produktech jsou v této době, vzhledem k sazbě ČNB, abnormálně vysoko.<br/><br/>A co máš proti RB? Já jsem s ní spokojený a využívám ji nyní v podstatě jako svou hlavní banku.</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211638#p14211638</guid>
-      <pubDate>Mon, 31 Aug 2026 11:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1256188] tatoch: taky by mohli zobrazovat rovnou aktuální zisk... jako třeba mBank nebo Trinity</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211543#p14211543</link>
-      <description><![CDATA[<div class="content">taky by mohli zobrazovat rovnou aktuální zisk... jako třeba mBank nebo Trinity</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211543#p14211543</guid>
-      <pubDate>Mon, 31 Aug 2026 11:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1256188] regin: To je docela blbé, že se zobrazuje jen základní úrok. Jak mám poznat, že jsem splnil podmí</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211470#p14211470</link>
-      <description><![CDATA[<div class="content">To je docela blbé, že se zobrazuje jen základní úrok. Jak mám poznat, že jsem splnil podmínky a dostanu i ten bonusový?<br/><br/>A co když jsem teď v srpnu měl jen účet Plus, splnil jsem podmínky a až pak založil účet Top. Budu mít v září bonus na Top nebo jen na Plus?</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211470#p14211470</guid>
-      <pubDate>Mon, 31 Aug 2026 11:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1131529] Johny11111: Jj, o TV vím. Ale min část by bylo hezké i nich nechat na SÚ, a samozřejmě se to může i př</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211417#p14211417</link>
-      <description><![CDATA[<div class="content">Jj, o TV vím. Ale min část by bylo hezké i nich nechat na SÚ, a samozřejmě se to může i přesunout jinam. Ale rád bych, aby banka nabídla taky ať už 3,6 nebo 3,8 bez podmínek. Už mě štve jen ten princip.<br/>O RB nemluvím, jim je asi líp se zdaleka vyhnout.</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211417#p14211417</guid>
-      <pubDate>Mon, 31 Aug 2026 11:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1131529] LaNov: V ČSOB můžete mít 3,20 % p.a. na TV na 3 měsíce. Všichni řeší jen spořáky, ale kdo potřebu</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211403#p14211403</link>
-      <description><![CDATA[<div class="content">V ČSOB můžete mít 3,20 % p.a. na TV na 3 měsíce. Všichni řeší jen spořáky, ale kdo potřebuje všechny úspory neustále do druhého dne? Mně zase přijde úchylné, že třeba RB nabízí na TV 2 % ...</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211403#p14211403</guid>
-      <pubDate>Mon, 31 Aug 2026 11:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1131529] mate59: ČSOB ti nic víc než uvadiš nenabídne.</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211389#p14211389</link>
-      <description><![CDATA[<div class="content">ČSOB ti nic víc než uvadiš nenabídne.</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211389#p14211389</guid>
-      <pubDate>Mon, 31 Aug 2026 11:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1131529] Johny11111: Mám dotaz. Mám u ČSOB nějaké produkty už pěknou řádku let a využívám je. Ale už nějakou do</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14211344#p14211344</link>
-      <description><![CDATA[<div class="content">Mám dotaz. Mám u ČSOB nějaké produkty už pěknou řádku let a využívám je. Ale už nějakou dobu docela vadí úroková sazba na spořícím účtu. Zatím jsme se dostali k tomu, že mi nabídnou 3,8 % za předpokladu pravidelných investic anebo 4 % jako duo profit. <br/>Údajně nic lepšího neumí.<br/>A když tu čtu, že někteří z vás mají 3,6 % nebo 3,8 % de facto bez podmínek, tak o jejich pravdomluvnosti mám vážné pochyby. Vím, jinde jsou úroky podobné a bez dohadování. Ale bylo by hezké, kdyby se s nimy podařilo udržet nějaké rozumné vztahy. Tak se chci zeptat, máte nějaký nápad, jak s bankou najít nějakou domluvu, aby taky nabídly nějaký lepší úrok?</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14211344#p14211344</guid>
-      <pubDate>Sun, 30 Aug 2026 10:04:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
