@@ -1,45 +1,5 @@
 [
   {
-    "id": 14212177,
-    "thread_id": 1120912,
-    "thread_name": "FinExpert vlakno 1120912",
-    "author": "Rop",
-    "published": "2026-09-01T09:33:59.317618+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14212177#p14212177",
-    "title": "[FinExpert vlakno 1120912] Rop: Píšu to pořád dokola. Bezdomovec si založí účet u banky - tento účet ovládá někdo jiný. Be",
-    "html": "<div class=\"content\">Píšu to pořád dokola.<br/><br/>Bezdomovec si založí účet u banky - tento účet ovládá někdo jiný.<br/>Bezdomovec vymění občanku - banka zaregistruje z Registru obyvatel novou občanku a vyzve majitele účtu k předložení nové občanky. A ejhle, ten kdo ovládá účet už nemůže najít bezdomovce.<br/><br/>Kapišto?<br/><br/>Navíc v Sudetech je bílých koní víc než dost: <!-- m --><a class=\"postlink\" href=\"https://www.e-mostecko.cz/zpravy/most/171495-za-tisic-korun-prodal-svuj-ucet-ted-celi-podezreni-z-trestneho-cinu-policie-varuje-pred-snadnymi-vydelky\" ref=\"nofollow\">https://www.e-mostecko.cz/zpravy/most/1 ... mi-vydelky</a><!-- m --></div>"
-  },
-  {
-    "id": 14212183,
-    "thread_id": 1078058,
-    "thread_name": "FinExpert vlakno 1078058",
-    "author": "regin",
-    "published": "2026-09-01T09:34:12.557981+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14212183#p14212183",
-    "title": "[FinExpert vlakno 1078058] regin: Tak mi přišel mail, kde sice na začátku uvádějí datum 1. září 2026, ale na konci píšou: \"V",
-    "html": "<div class=\"content\">Tak mi přišel mail, kde sice na začátku uvádějí datum 1. září 2026, ale na konci píšou: \"Výše uvedené sazby platí do 1. listopadu 2026.\"</div>"
-  },
-  {
-    "id": 14212203,
-    "thread_id": 1120912,
-    "thread_name": "FinExpert vlakno 1120912",
-    "author": "kecinzer",
-    "published": "2026-09-01T09:33:59.318009+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14212203#p14212203",
-    "title": "[FinExpert vlakno 1120912] kecinzer: Se mnou to souvisí jak? Fakt nechápu, takže nekapim .",
-    "html": "<div class=\"content\">Se mnou to souvisí jak? Fakt nechápu, takže nekapim <img alt=\":-D\" src=\"./images/smilies/04.gif\" title=\":-D\"/>.</div>"
-  },
-  {
-    "id": 14212207,
-    "thread_id": 1078058,
-    "thread_name": "FinExpert vlakno 1078058",
-    "author": "MP007",
-    "published": "2026-09-02T08:58:24.111865+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14212207#p14212207",
-    "title": "[FinExpert vlakno 1078058] MP007: Obecná otázka: Má smysl v případě UCB posílat platbu v řádu stovek tisíc Kč z hlediska ryc",
-    "html": "<div class=\"content\">Obecná otázka: Má smysl v případě UCB posílat platbu v řádu stovek tisíc Kč z hlediska rychlosti převodu raději opět do UCB? Nebo tato banka nemá problém s přeposláním okamžité platby do jiné banky tuto službu podporující, např. RB? Děkuji za názor.</div>"
-  },
-  {
     "id": 14212216,
     "thread_id": 1256188,
     "thread_name": "FinExpert vlakno 1256188",
@@ -2998,5 +2958,45 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235727#p14235727",
     "title": "[FinExpert vlakno 1256188] Milos: V Creditas One už není, takže si ho můžeš užívat do doby, než tě převedou pod Creditas One",
     "html": "<div class=\"content\">V Creditas One už není, takže si ho můžeš užívat do doby, než tě převedou pod Creditas One <img alt=\":nenapadne\" src=\"./images/smilies/eusa_shifty.gif\" title=\"Nenápadně\"/></div>"
+  },
+  {
+    "id": 14235957,
+    "thread_id": 1239073,
+    "thread_name": "FinExpert vlakno 1239073",
+    "author": "bubocz",
+    "published": "2026-10-17T08:45:56.059057+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235957#p14235957",
+    "title": "[FinExpert vlakno 1239073] bubocz: Zjistil jsem, že místo dobíjení zůstatku kreditkou při poklesu zůstatku to jde řešit novou",
+    "html": "<div class=\"content\">Zjistil jsem, že místo dobíjení zůstatku kreditkou při poklesu zůstatku to jde řešit novou funkci elegantněji - zůstatek na “běžných účtech” lze podle zadaných pravidel dobíjet ze spořicího účtu v CZK a “pseudospořících” v EUR či USD. Takže mohu dobit kreditkou a pak ty peníze nechat na tom spořicím účtu a pak jimi automaticky dobíjet běžné účty.<br/><br/>A jinak včera přišel email z Revolutu s novinkami - podporou platebního schématu Blik v Polsku a úpravu ceníku pro platby do zahraničí, detaily jsem zatím nezkoumal.</div>"
+  },
+  {
+    "id": 14235970,
+    "thread_id": 1239073,
+    "thread_name": "FinExpert vlakno 1239073",
+    "author": "libol",
+    "published": "2026-10-17T08:45:56.059350+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235970#p14235970",
+    "title": "[FinExpert vlakno 1239073] libol: Ten BLIK by byl super, ale jestli jsem to správně pochopil, tak pro nás bude s poplatkem. ",
+    "html": "<div class=\"content\">Ten BLIK by byl super, ale jestli jsem to správně pochopil, tak pro nás bude s poplatkem. Holt je to převod mimo CZK, EUR</div>"
+  },
+  {
+    "id": 14236175,
+    "thread_id": 1256188,
+    "thread_name": "FinExpert vlakno 1256188",
+    "author": "pmaly",
+    "published": "2026-10-17T08:45:42.853482+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14236175#p14236175",
+    "title": "[FinExpert vlakno 1256188] pmaly: Děkuji ti za odkaz na starý článek ze dne 24. 11. 2025, kde píšou o novém budoucím One(zač",
+    "html": "<div class=\"content\">Děkuji ti <img alt=\":nenapadne\" src=\"./images/smilies/eusa_shifty.gif\" title=\"Nenápadně\"/> za odkaz na starý článek ze dne 24. 11. 2025, kde píšou o novém budoucím One(začalo fugovat za 7 měsíců).<br/>Já mám jak Creditas banking(původně Richee), který stále funguje a aktualizuje se i nový One.<br/>V novém One není multibanking od začátku takže ho tam nemohli zrušit, jak píšeš a v článku píšou že technicky jsou na impelementaci připraveni.</div>"
+  },
+  {
+    "id": 14236222,
+    "thread_id": 1239073,
+    "thread_name": "FinExpert vlakno 1239073",
+    "author": "Bnone",
+    "published": "2026-10-17T08:45:56.059604+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14236222#p14236222",
+    "title": "[FinExpert vlakno 1239073] Bnone: Pohrál jsem si s tím. Je třeba mít u RVLT účet v PLN, Na něj si převést něco z CZK účtu. N",
+    "html": "<div class=\"content\">Pohrál jsem si s tím. Je třeba mít u RVLT účet v PLN, Na něj si převést něco z CZK účtu. Na záložce PLN je pak ikona Blik, kliknu, odsouhlasím podmínky a hotovo. Při platbě se objeví 6místný kód pro zaplacení s platností 105 s.. Funguje jen kód, nelze použít bezkontaktní blik.<br/>PLN je třeba mít na účtu, pokud tam není dostatek, platba se nepovede. Je třeba je tam převádět ručně předem, automatický nákup PLN nefunguje.<br/>Nelze ani přijímat platby na telefonní číslo. Jen platit zboží bez dalších poplatků, vybírat v bankomatu myslím za poplatek 6 zl.</div>"
   }
 ]

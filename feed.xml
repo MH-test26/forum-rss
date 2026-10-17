@@ -7,7 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:45:56 +0000</lastBuildDate>
+    <item>
+      <title>[FinExpert vlakno 1239073] Bnone: Pohrál jsem si s tím. Je třeba mít u RVLT účet v PLN, Na něj si převést něco z CZK účtu. N</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14236222#p14236222</link>
+      <description><![CDATA[<div class="content">Pohrál jsem si s tím. Je třeba mít u RVLT účet v PLN, Na něj si převést něco z CZK účtu. Na záložce PLN je pak ikona Blik, kliknu, odsouhlasím podmínky a hotovo. Při platbě se objeví 6místný kód pro zaplacení s platností 105 s.. Funguje jen kód, nelze použít bezkontaktní blik.<br/>PLN je třeba mít na účtu, pokud tam není dostatek, platba se nepovede. Je třeba je tam převádět ručně předem, automatický nákup PLN nefunguje.<br/>Nelze ani přijímat platby na telefonní číslo. Jen platit zboží bez dalších poplatků, vybírat v bankomatu myslím za poplatek 6 zl.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14236222#p14236222</guid>
+      <pubDate>Sat, 17 Oct 2026 08:45:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1256188] pmaly: Děkuji ti za odkaz na starý článek ze dne 24. 11. 2025, kde píšou o novém budoucím One(zač</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14236175#p14236175</link>
+      <description><![CDATA[<div class="content">Děkuji ti <img alt=":nenapadne" src="./images/smilies/eusa_shifty.gif" title="Nenápadně"/> za odkaz na starý článek ze dne 24. 11. 2025, kde píšou o novém budoucím One(začalo fugovat za 7 měsíců).<br/>Já mám jak Creditas banking(původně Richee), který stále funguje a aktualizuje se i nový One.<br/>V novém One není multibanking od začátku takže ho tam nemohli zrušit, jak píšeš a v článku píšou že technicky jsou na impelementaci připraveni.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14236175#p14236175</guid>
+      <pubDate>Sat, 17 Oct 2026 08:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1239073] libol: Ten BLIK by byl super, ale jestli jsem to správně pochopil, tak pro nás bude s poplatkem. </title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235970#p14235970</link>
+      <description><![CDATA[<div class="content">Ten BLIK by byl super, ale jestli jsem to správně pochopil, tak pro nás bude s poplatkem. Holt je to převod mimo CZK, EUR</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235970#p14235970</guid>
+      <pubDate>Sat, 17 Oct 2026 08:45:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FinExpert vlakno 1239073] bubocz: Zjistil jsem, že místo dobíjení zůstatku kreditkou při poklesu zůstatku to jde řešit novou</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235957#p14235957</link>
+      <description><![CDATA[<div class="content">Zjistil jsem, že místo dobíjení zůstatku kreditkou při poklesu zůstatku to jde řešit novou funkci elegantněji - zůstatek na “běžných účtech” lze podle zadaných pravidel dobíjet ze spořicího účtu v CZK a “pseudospořících” v EUR či USD. Takže mohu dobit kreditkou a pak ty peníze nechat na tom spořicím účtu a pak jimi automaticky dobíjet běžné účty.<br/><br/>A jinak včera přišel email z Revolutu s novinkami - podporou platebního schématu Blik v Polsku a úpravu ceníku pro platby do zahraničí, detaily jsem zatím nezkoumal.</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14235957#p14235957</guid>
+      <pubDate>Sat, 17 Oct 2026 08:45:56 +0000</pubDate>
+    </item>
     <item>
       <title>[FinExpert vlakno 1256188] Milos: V Creditas One už není, takže si ho můžeš užívat do doby, než tě převedou pod Creditas One</title>
       <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14235727#p14235727</link>
@@ -2079,34 +2107,6 @@
       <description><![CDATA[<div class="content">.. tak máme září a mě tam pořád svítí 3,25 i když jsem podmínky splnil</div>]]></description>
       <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14212216#p14212216</guid>
       <pubDate>Wed, 02 Sep 2026 08:58:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1078058] MP007: Obecná otázka: Má smysl v případě UCB posílat platbu v řádu stovek tisíc Kč z hlediska ryc</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14212207#p14212207</link>
-      <description><![CDATA[<div class="content">Obecná otázka: Má smysl v případě UCB posílat platbu v řádu stovek tisíc Kč z hlediska rychlosti převodu raději opět do UCB? Nebo tato banka nemá problém s přeposláním okamžité platby do jiné banky tuto službu podporující, např. RB? Děkuji za názor.</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14212207#p14212207</guid>
-      <pubDate>Wed, 02 Sep 2026 08:58:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1120912] kecinzer: Se mnou to souvisí jak? Fakt nechápu, takže nekapim .</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14212203#p14212203</link>
-      <description><![CDATA[<div class="content">Se mnou to souvisí jak? Fakt nechápu, takže nekapim <img alt=":-D" src="./images/smilies/04.gif" title=":-D"/>.</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14212203#p14212203</guid>
-      <pubDate>Tue, 01 Sep 2026 09:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1078058] regin: Tak mi přišel mail, kde sice na začátku uvádějí datum 1. září 2026, ale na konci píšou: "V</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14212183#p14212183</link>
-      <description><![CDATA[<div class="content">Tak mi přišel mail, kde sice na začátku uvádějí datum 1. září 2026, ale na konci píšou: "Výše uvedené sazby platí do 1. listopadu 2026."</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14212183#p14212183</guid>
-      <pubDate>Tue, 01 Sep 2026 09:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1120912] Rop: Píšu to pořád dokola. Bezdomovec si založí účet u banky - tento účet ovládá někdo jiný. Be</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14212177#p14212177</link>
-      <description><![CDATA[<div class="content">Píšu to pořád dokola.<br/><br/>Bezdomovec si založí účet u banky - tento účet ovládá někdo jiný.<br/>Bezdomovec vymění občanku - banka zaregistruje z Registru obyvatel novou občanku a vyzve majitele účtu k předložení nové občanky. A ejhle, ten kdo ovládá účet už nemůže najít bezdomovce.<br/><br/>Kapišto?<br/><br/>Navíc v Sudetech je bílých koní víc než dost: <!-- m --><a class="postlink" href="https://www.e-mostecko.cz/zpravy/most/171495-za-tisic-korun-prodal-svuj-ucet-ted-celi-podezreni-z-trestneho-cinu-policie-varuje-pred-snadnymi-vydelky" ref="nofollow">https://www.e-mostecko.cz/zpravy/most/1 ... mi-vydelky</a><!-- m --></div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14212177#p14212177</guid>
-      <pubDate>Tue, 01 Sep 2026 09:33:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
