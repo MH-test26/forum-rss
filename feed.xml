@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 17 Oct 2026 08:45:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:01:34 +0000</lastBuildDate>
+    <item>
+      <title>[FinExpert vlakno 1239073] bubocz: Přijímání plateb na telefonní číslo u BLIKu mi nechybí, ale odesílání ano - v polských Krk</title>
+      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14236562#p14236562</link>
+      <description><![CDATA[<div class="content">Přijímání plateb na telefonní číslo u BLIKu mi nechybí, ale odesílání ano - v polských Krkonoších bylo dost míst, co chtělo platbu BLIKem na telefonní číslo…</div>]]></description>
+      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14236562#p14236562</guid>
+      <pubDate>Sun, 18 Oct 2026 09:01:34 +0000</pubDate>
+    </item>
     <item>
       <title>[FinExpert vlakno 1239073] Bnone: Pohrál jsem si s tím. Je třeba mít u RVLT účet v PLN, Na něj si převést něco z CZK účtu. N</title>
       <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14236222#p14236222</link>
@@ -2100,13 +2107,6 @@
       <description><![CDATA[<div class="content">UCB má okamžité platby 400000,můžeš je poslat opakovaně,problém není.</div>]]></description>
       <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14212220#p14212220</guid>
       <pubDate>Wed, 02 Sep 2026 08:58:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FinExpert vlakno 1256188] pezzay: .. tak máme září a mě tam pořád svítí 3,25 i když jsem podmínky splnil</title>
-      <link>https://forum.finexpert.e15.cz/viewtopic.php?p=14212216#p14212216</link>
-      <description><![CDATA[<div class="content">.. tak máme září a mě tam pořád svítí 3,25 i když jsem podmínky splnil</div>]]></description>
-      <guid isPermaLink="false">https://forum.finexpert.e15.cz/viewtopic.php?p=14212216#p14212216</guid>
-      <pubDate>Wed, 02 Sep 2026 08:58:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

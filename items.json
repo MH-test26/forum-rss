@@ -1,15 +1,5 @@
 [
   {
-    "id": 14212216,
-    "thread_id": 1256188,
-    "thread_name": "FinExpert vlakno 1256188",
-    "author": "pezzay",
-    "published": "2026-09-02T08:58:37.032460+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14212216#p14212216",
-    "title": "[FinExpert vlakno 1256188] pezzay: .. tak máme září a mě tam pořád svítí 3,25 i když jsem podmínky splnil",
-    "html": "<div class=\"content\">.. tak máme září a mě tam pořád svítí 3,25 i když jsem podmínky splnil</div>"
-  },
-  {
     "id": 14212220,
     "thread_id": 1078058,
     "thread_name": "FinExpert vlakno 1078058",
@@ -2998,5 +2988,15 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14236222#p14236222",
     "title": "[FinExpert vlakno 1239073] Bnone: Pohrál jsem si s tím. Je třeba mít u RVLT účet v PLN, Na něj si převést něco z CZK účtu. N",
     "html": "<div class=\"content\">Pohrál jsem si s tím. Je třeba mít u RVLT účet v PLN, Na něj si převést něco z CZK účtu. Na záložce PLN je pak ikona Blik, kliknu, odsouhlasím podmínky a hotovo. Při platbě se objeví 6místný kód pro zaplacení s platností 105 s.. Funguje jen kód, nelze použít bezkontaktní blik.<br/>PLN je třeba mít na účtu, pokud tam není dostatek, platba se nepovede. Je třeba je tam převádět ručně předem, automatický nákup PLN nefunguje.<br/>Nelze ani přijímat platby na telefonní číslo. Jen platit zboží bez dalších poplatků, vybírat v bankomatu myslím za poplatek 6 zl.</div>"
+  },
+  {
+    "id": 14236562,
+    "thread_id": 1239073,
+    "thread_name": "FinExpert vlakno 1239073",
+    "author": "bubocz",
+    "published": "2026-10-18T09:01:34.340313+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14236562#p14236562",
+    "title": "[FinExpert vlakno 1239073] bubocz: Přijímání plateb na telefonní číslo u BLIKu mi nechybí, ale odesílání ano - v polských Krk",
+    "html": "<div class=\"content\">Přijímání plateb na telefonní číslo u BLIKu mi nechybí, ale odesílání ano - v polských Krkonoších bylo dost míst, co chtělo platbu BLIKem na telefonní číslo…</div>"
   }
 ]
