@@ -1,25 +1,5 @@
 [
   {
-    "id": 14212220,
-    "thread_id": 1078058,
-    "thread_name": "FinExpert vlakno 1078058",
-    "author": "mate59",
-    "published": "2026-09-02T08:58:24.112145+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14212220#p14212220",
-    "title": "[FinExpert vlakno 1078058] mate59: UCB má okamžité platby 400000,můžeš je poslat opakovaně,problém není.",
-    "html": "<div class=\"content\">UCB má okamžité platby 400000,můžeš je poslat opakovaně,problém není.</div>"
-  },
-  {
-    "id": 14212223,
-    "thread_id": 1256188,
-    "thread_name": "FinExpert vlakno 1256188",
-    "author": "mate59",
-    "published": "2026-09-02T08:58:37.032824+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14212223#p14212223",
-    "title": "[FinExpert vlakno 1256188] mate59: Začátek měsíce,klasika, v bankovnictví se ukazují bludy,platba nešla odeslat,nesprávné zůs",
-    "html": "<div class=\"content\">Začátek měsíce,klasika, v bankovnictví se ukazují bludy,platba nešla odeslat,nesprávné zůstatky,ale jsme na to zvyklí.</div>"
-  },
-  {
     "id": 14212236,
     "thread_id": 1256188,
     "thread_name": "FinExpert vlakno 1256188",
@@ -2998,5 +2978,25 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14236562#p14236562",
     "title": "[FinExpert vlakno 1239073] bubocz: Přijímání plateb na telefonní číslo u BLIKu mi nechybí, ale odesílání ano - v polských Krk",
     "html": "<div class=\"content\">Přijímání plateb na telefonní číslo u BLIKu mi nechybí, ale odesílání ano - v polských Krkonoších bylo dost míst, co chtělo platbu BLIKem na telefonní číslo…</div>"
+  },
+  {
+    "id": 14236747,
+    "thread_id": 301647,
+    "thread_name": "FinExpert vlakno 301647",
+    "author": "tester355789",
+    "published": "2026-10-19T10:10:00.409344+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14236747#p14236747",
+    "title": "[FinExpert vlakno 301647] tester355789: Máte někdo k mkreditce travel vydanou dodatkovou kartu? Je možné držiteli této karty nasta",
+    "html": "<div class=\"content\">Máte někdo k mkreditce travel vydanou dodatkovou kartu? Je možné držiteli této karty nastavit  k úvěrovému účtu kreditní karty disponentská práva - tj. může mít držitel dodatkové karty přehled o celkové útratě i transakcích všemi kartami nebo má přístup pouze k transakcím vlastní kartou a nezná tak ani celkovou vyčerpanou částku?</div>"
+  },
+  {
+    "id": 14236789,
+    "thread_id": 1239073,
+    "thread_name": "FinExpert vlakno 1239073",
+    "author": "bugr virbl",
+    "published": "2026-10-19T10:10:52.570787+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14236789#p14236789",
+    "title": "[FinExpert vlakno 1239073] bugr virbl: Zkoušel jste už někdo vybrat ze sítě Revolut bankomatů hotovost Partners nebo jinou tuzems",
+    "html": "<div class=\"content\">Zkoušel jste už někdo vybrat ze sítě Revolut bankomatů hotovost Partners nebo jinou tuzemskou debetní kartou? Umožní výběr a je s jakým poplatkem nebo zdarma?</div>"
   }
 ]
