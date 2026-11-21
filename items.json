@@ -1,75 +1,5 @@
 [
   {
-    "id": 14235262,
-    "thread_id": 1131529,
-    "thread_name": "FinExpert vlakno 1131529",
-    "author": "minarjo",
-    "published": "2026-10-15T09:18:54.239649+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235262#p14235262",
-    "title": "[FinExpert vlakno 1131529] minarjo: wit.cz píše: bylo by možné ten hyperlink odebrat a ideálně i https nahradit třeba hxxps? P",
-    "html": "<div class=\"content\"><blockquote><div><cite>wit.cz píše:</cite>bylo by možné ten hyperlink odebrat a ideálně i https nahradit třeba hxxps?</div></blockquote><br/>PROČ jako bylo nezbytné zneplatnit ten link? Jsem tam přece psal, že jsem ho ČSOB přes Kate nahlásil, banka samosebou zajistila jeho znepřístupnění, jako jindy v podobných případech. V tomto banky jednají fakt rychle, když někdo podvrhuje jejich web, na to jsou alergické, chce jim to hlásit no. Tento můj link přestal být funkční už pár hodin od nahlášení (ale nemusel jsem být první, kdo to hlásil). Navíc nebyl rizikový v tom, že by tam byl nějaký vir atd., šlo prostě o imitaci formuláře banky pro objednání hovoru \"bezpečnostního bankéře\". Naopak stálo za to prohlédnout si zdařilost toho webu i v detailech, podvodníci se zlepšují <img alt=\":(\" src=\"./images/smilies/27.gif\" title=\":-(\"/>.</div>"
-  },
-  {
-    "id": 14235277,
-    "thread_id": 1078058,
-    "thread_name": "FinExpert vlakno 1078058",
-    "author": "__Pavel",
-    "published": "2026-10-15T09:19:33.657602+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235277#p14235277",
-    "title": "[FinExpert vlakno 1078058] __Pavel: Právě tím, že účet zrušíš, se podle této kampaně stáváš po 12 (resp. 36) měsících novým kl",
-    "html": "<div class=\"content\">Právě tím, že účet zrušíš, se podle této kampaně stáváš po 12 (resp. 36) měsících novým klientem.</div>"
-  },
-  {
-    "id": 14235280,
-    "thread_id": 1078058,
-    "thread_name": "FinExpert vlakno 1078058",
-    "author": "minarjo",
-    "published": "2026-10-15T09:19:33.657772+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235280#p14235280",
-    "title": "[FinExpert vlakno 1078058] minarjo: __Pavel píše: ...při založení přece vzniknou účty dva a ten druhý (spořící) pak přes mobil",
-    "html": "<div class=\"content\"><blockquote><div><cite>__Pavel píše:</cite>...při založení přece vzniknou účty dva a ten druhý (spořící) pak přes mobilitu asi nezruším.</div></blockquote><br/>Omyl, cca před rokem po konci obdobné akce jsem mobilitou zadanou z appky Raiffeisenbank rušil oba UCB účty (mobilita zadaná na jeden a ihned poté i druhý účet) a UCB oba zrušila v pohodě. Ono je to tím, že i ten \"spořící\" účet je v UCB v podstatě běžný (po zřízení označený jako Běžný 2, pokud si pamatuji, umí i platební styk atd.). Takže v tom fakt problém není.</div>"
-  },
-  {
-    "id": 14235464,
-    "thread_id": 1131529,
-    "thread_name": "FinExpert vlakno 1131529",
-    "author": "wit.cz",
-    "published": "2026-10-16T09:12:51.693184+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235464#p14235464",
-    "title": "[FinExpert vlakno 1131529] wit.cz: Jen drobná technická poznámka k tomu „ČSOB zajistila znepřístupnění“ toho odkazu. Banka sa",
-    "html": "<div class=\"content\">Jen drobná technická poznámka k tomu „ČSOB zajistila znepřístupnění“ toho odkazu.  <br/>Banka sama o sobě nemá žádnou pravomoc shodit cizí doménu - tu vlastní úplně jiný subjekt. Co ale může udělat (a dělá to běžně), je nahlásit phishingový obsah přímo registrátorovi nebo hostiteli, případně přes systémy typu Google Safe Browsing, Cloudflare apod. A ti pak stránku vypnou, zablokují DNS nebo ji odstaví z provozu.<br/><br/>Takže když píšeš, že „ČSOB to shodila“, znamená to jen to, že jejich bezpečnostní tým to eskaloval správci infrastruktury, který to následně deaktivoval. Banka to neudělala sama - jen spustila proces, který k tomu vede.<br/><br/>Zneplatnění odkazu tady na fóru nebylo kvůli virům, ale kvůli tomu, že šlo o podvržený bankovní formulář. I když už byl mezitím odstavený, nechává se to raději neklikatelné, aby si to někdo neotevřel jako funkční link. To je standardní postup u jakéhokoli spoofingu bankovních stránek. Je tím patrné, že jde o odkaz, který by neměl být navštěvován a zároveň jde jeho URL upravit tak, aby se tam šlo dostat.</div>"
-  },
-  {
-    "id": 14235488,
-    "thread_id": 1078058,
-    "thread_name": "FinExpert vlakno 1078058",
-    "author": "ROlda78",
-    "published": "2026-10-16T09:13:34.938383+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235488#p14235488",
-    "title": "[FinExpert vlakno 1078058] ROlda78: Ne v podstatě, jedná se o nejlépe úročený běžný účet.",
-    "html": "<div class=\"content\">Ne v podstatě, jedná se o nejlépe úročený <span style=\"font-weight: bold\">běžný</span> účet.</div>"
-  },
-  {
-    "id": 14235513,
-    "thread_id": 1078058,
-    "thread_name": "FinExpert vlakno 1078058",
-    "author": "PatrikChrz",
-    "published": "2026-10-16T09:13:34.938544+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235513#p14235513",
-    "title": "[FinExpert vlakno 1078058] PatrikChrz: tak jsem se zastavil dneska v Unicredit. Zcela očekávaně založení účtu se nepodařilo \"máte",
-    "html": "<div class=\"content\">tak jsem se zastavil dneska v Unicredit. Zcela očekávaně založení účtu se nepodařilo \"máte tu negativní záznam\" <img alt=\":D\" src=\"./images/smilies/39.gif\" title=\":D\"/>, v pohodě. To jsem čekal. Co jsem nečekal, že ani jeden ze dvou bankéřů o probíhající akci 4000 Kč vůbec nevěděl.</div>"
-  },
-  {
-    "id": 14235532,
-    "thread_id": 1131529,
-    "thread_name": "FinExpert vlakno 1131529",
-    "author": "minarjo",
-    "published": "2026-10-16T09:12:51.693331+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235532#p14235532",
-    "title": "[FinExpert vlakno 1131529] minarjo: SAMOSEBOU jsem to myslel jak píšeš, že to zajistila, jak jinak, jako že by zaměstnávala vl",
-    "html": "<div class=\"content\">SAMOSEBOU jsem to myslel jak píšeš, že to zajistila, jak jinak, jako že by zaměstnávala vlastní hackery? <img alt=\":D\" src=\"./images/smilies/39.gif\" title=\":D\"/> Proto by se to mělo hlásit.<br/><br/>K druhému tvému odstavci: obecně souhlasím, ano. Ale zde nešlo o obecný formulář, který by nějaký Jouda mohl vyplnit. Význam měl POUZE pro toho, kdo dostal podvrženou SMS varující před napadením ČSOB identity, jak bylo v něm i napsáno - jen ten by vyplnil jméno a číslo telefonu pro zavolání falešného bankéře. Kdokoliv jiný by z textu pochopil, že se ho to netýká, proto jsem to považoval za bezpečné, narozdíl od jiných podvržených formulářů, které třeba napodobují přihlášení do IB. Zde byl princip podvodu opačný, už SMS měla vzbudit obavy a formulář \"jen\" k vyžádání hovoru falešného bankéře k vyřešení té SMS, zajímavá strategie.</div>"
-  },
-  {
     "id": 14235653,
     "thread_id": 1131529,
     "thread_name": "FinExpert vlakno 1131529",
@@ -2998,5 +2928,75 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14253481#p14253481",
     "title": "[FinExpert vlakno 301647] .void: UniCredit v Polsku taky působí jako nástupce belgické digitální Aion Bank, takže tam určit",
     "html": "<div class=\"content\">UniCredit v Polsku taky působí jako nástupce belgické digitální Aion Bank, takže tam určitě budou zkoušet dělat spojení bank.</div>"
+  },
+  {
+    "id": 14253580,
+    "thread_id": 1078058,
+    "thread_name": "FinExpert vlakno 1078058",
+    "author": "Liboro",
+    "published": "2026-11-21T12:56:03.486740+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14253580#p14253580",
+    "title": "[FinExpert vlakno 1078058] Liboro: Musí proběhnout ruční aktivace, začíná to běžet od následujícího dne a aktivace musí probě",
+    "html": "<div class=\"content\">Musí proběhnout ruční aktivace, začíná to běžet od následujícího dne a aktivace musí proběhnout do 30 dnů od doručení nabídky.</div>"
+  },
+  {
+    "id": 14253609,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "LuZi",
+    "published": "2026-11-21T12:55:24.324454+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14253609#p14253609",
+    "title": "[FinExpert vlakno 1131529] LuZi: Tak jsem poslal si na Běžný účet více plateb tak, abych měl 100k + vyrovnal pokles proti k",
+    "html": "<div class=\"content\">Tak jsem poslal si na Běžný účet více plateb tak, abych měl 100k + vyrovnal pokles proti konci října, založil jsem Extra účet a po přesunu to napsalo 4%... no doufám že teď už může klesnout suma účtů (se započtením toho Extra) pod říjen, nebo mám počkat na konec listopadu a přesouvat jinam poté?<br/>Tedy je ta podmínka skutečně jen pro okamžik založení nebo je to časově delší udržet tam peníze do celkové sumy mezi měsíci v plusu?</div>"
+  },
+  {
+    "id": 14253625,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "Milos",
+    "published": "2026-11-21T12:55:24.324614+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14253625#p14253625",
+    "title": "[FinExpert vlakno 1131529] Milos: Celkový zůstatek už může klesnout, takže převod jinam můžeš udělat klidně hned.",
+    "html": "<div class=\"content\">Celkový zůstatek už může klesnout, takže převod jinam můžeš udělat klidně hned.</div>"
+  },
+  {
+    "id": 14253654,
+    "thread_id": 1078058,
+    "thread_name": "FinExpert vlakno 1078058",
+    "author": "myšpulín",
+    "published": "2026-11-21T12:56:03.486938+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14253654#p14253654",
+    "title": "[FinExpert vlakno 1078058] myšpulín: trimos- píše: Od 1.12. by měla Unicredit mít úrok při splnění 20k příchozích + 10 plateb +",
+    "html": "<div class=\"content\"><blockquote><div><cite>trimos- píše:</cite>Od 1.12. by měla Unicredit mít úrok při splnění 20k příchozích + 10 plateb + 2k investice 4.6%. <br/>Bez investic 4,2 nebo 4,3. To mi moje bankéřka několikrát řekla jednu nebo druhou hodnotu.</div></blockquote><br/><br/>Mám u UniCredit jednorázovou investici nad 100 000 na 5 let z 11/2022 takže se to počítá jako splnění podmínek nebo u jednorázové investice musí být nějaká nová? Z těch podmínek si nejsem úplně jistý, píší investujete tj. V přítomném čase, zatím co já jsem investoval dříve a aktuálně s tou investicí nic aktivně nedělám.</div>"
+  },
+  {
+    "id": 14253658,
+    "thread_id": 1078058,
+    "thread_name": "FinExpert vlakno 1078058",
+    "author": "mareka",
+    "published": "2026-11-21T12:56:03.487142+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14253658#p14253658",
+    "title": "[FinExpert vlakno 1078058] mareka: Dostal jsem z UCB mail: \"Dobrý den, vítáme Vás v našem nadstandardním bankovnictví Prime..",
+    "html": "<div class=\"content\">Dostal jsem z UCB mail: \"Dobrý den, vítáme Vás v našem nadstandardním bankovnictví Prime......V blízké době přidáme do Smart Bankingu novou sekci Prime, v níž uvidíte přehled benefitů.\"<br/><br/>Jsem splnil nějaké kritéria a dali mi Prime automaticky?</div>"
+  },
+  {
+    "id": 14253663,
+    "thread_id": 1078058,
+    "thread_name": "FinExpert vlakno 1078058",
+    "author": "mate59",
+    "published": "2026-11-21T12:56:03.487312+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14253663#p14253663",
+    "title": "[FinExpert vlakno 1078058] mate59: Taky jsem ten email dostal.Nejsem v nadstandartním bankovnicvví,ale už delší dobu mám spoř",
+    "html": "<div class=\"content\">Taky jsem ten email dostal.Nejsem v nadstandartním bankovnicvví,ale už delší dobu mám spořící účet Prime, který se dřív jmenoval Premium.Mám účet Start.Podívej se do bankovnictví do správ,jestli ti zvyšují od 1.12. spoření na 4,6 resp.4,2%.</div>"
+  },
+  {
+    "id": 14253793,
+    "thread_id": 301647,
+    "thread_name": "FinExpert vlakno 301647",
+    "author": "fc70",
+    "published": "2026-11-21T12:55:37.489577+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14253793#p14253793",
+    "title": "[FinExpert vlakno 301647] fc70: Stát se může cokoli. Aby se tak velká spojení dala uřídit, nastaví se nějaká strategie sna",
+    "html": "<div class=\"content\">Stát se může cokoli. Aby se tak velká spojení dala uřídit, nastaví se nějaká strategie snad dobře fungující pro ty důležité případy, a ta se aplikuje i na ty okrajové, i za cenu toho, že tam to trochu uškodí. Takže si dokážu představit, že vše půjde na technologii Unicredit, i to, že kde je mBank, půjde retail na ně a jen se rebranduje.</div>"
   }
 ]
