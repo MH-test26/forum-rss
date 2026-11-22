@@ -1,15 +1,5 @@
 [
   {
-    "id": 14235653,
-    "thread_id": 1131529,
-    "thread_name": "FinExpert vlakno 1131529",
-    "author": "Torns",
-    "published": "2026-10-16T09:12:55.898909+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14235653#p14235653",
-    "title": "[FinExpert vlakno 1131529] Torns: minarjo píše: Navíc nebyl rizikový v tom, že by tam byl nějaký vir atd. A jak jsi to zjišť",
-    "html": "<div class=\"content\"><blockquote><div><cite>minarjo píše:</cite>Navíc nebyl rizikový v tom, že by tam byl nějaký vir atd.</div></blockquote><br/>A jak jsi to zjišťoval? Vir nemusí být jen soubor ke stažení, zavirovat tvé zařízení mohou po přístupu na ten web přes případnou zranitelnost bez tvého dalšího přičinění. A třeba zrovna tobě ne a ani to nezkouší, ale někomu jinému ano. A když ne, tak možná sbírají data a snaží se je propojit, aby je mohli prodat někomu schopnějšímu.</div>"
-  },
-  {
     "id": 14235727,
     "thread_id": 1256188,
     "thread_name": "FinExpert vlakno 1256188",
@@ -2998,5 +2988,15 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14253793#p14253793",
     "title": "[FinExpert vlakno 301647] fc70: Stát se může cokoli. Aby se tak velká spojení dala uřídit, nastaví se nějaká strategie sna",
     "html": "<div class=\"content\">Stát se může cokoli. Aby se tak velká spojení dala uřídit, nastaví se nějaká strategie snad dobře fungující pro ty důležité případy, a ta se aplikuje i na ty okrajové, i za cenu toho, že tam to trochu uškodí. Takže si dokážu představit, že vše půjde na technologii Unicredit, i to, že kde je mBank, půjde retail na ně a jen se rebranduje.</div>"
+  },
+  {
+    "id": 14254157,
+    "thread_id": 301647,
+    "thread_name": "FinExpert vlakno 301647",
+    "author": "LaNov",
+    "published": "2026-11-22T12:47:45.901699+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14254157#p14254157",
+    "title": "[FinExpert vlakno 301647] LaNov: Myslím, že netřeba spekulovat, UCB už toho koupila hodně, včetně rakouské BA, Živno v ČR a",
+    "html": "<div class=\"content\">Myslím, že netřeba spekulovat, UCB už toho koupila hodně, včetně rakouské BA, Živno v ČR atd., jak k tomu přistupuje, je známo, i jak dlouho to trvá.</div>"
   }
 ]
