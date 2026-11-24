@@ -1,75 +1,5 @@
 [
   {
-    "id": 14237104,
-    "thread_id": 1239073,
-    "thread_name": "FinExpert vlakno 1239073",
-    "author": "malyp",
-    "published": "2026-10-20T09:36:15.361913+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14237104#p14237104",
-    "title": "[FinExpert vlakno 1239073] malyp: Revolt má vlastní bankomaty zatím ve Španelsku jako pilotní projekt. Partner uvádí že výbě",
-    "html": "<div class=\"content\">Revolt má vlastní bankomaty zatím ve Španelsku jako pilotní projekt. Partner uvádí že výběr hotovosti její kartou je bez poplatku.</div>"
-  },
-  {
-    "id": 14237245,
-    "thread_id": 301647,
-    "thread_name": "FinExpert vlakno 301647",
-    "author": "mareka",
-    "published": "2026-10-20T09:35:22.596932+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14237245#p14237245",
-    "title": "[FinExpert vlakno 301647] mareka: Požádal jsem v mBank internetovém bankovnictví o zrušení/převod účtu ČSOB. Když pominu, že",
-    "html": "<div class=\"content\">Požádal jsem v mBank internetovém bankovnictví o zrušení/převod účtu ČSOB. <br/><br/>Když pominu, že musím jako povinný údaj uvést i předčíslí účtu, které ČSOB nemá (snad to vyřešily nuly), tak i po podpisu smlouvy přes mobil je žádost stále uvedena v internet bankovnictví mBank jako nepodepsaná.<br/><br/>Kde dělám chybu?</div>"
-  },
-  {
-    "id": 14237307,
-    "thread_id": 1142003,
-    "thread_name": "FinExpert vlakno 1142003",
-    "author": "dasvoboda",
-    "published": "2026-10-20T09:34:56.236091+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14237307#p14237307",
-    "title": "[FinExpert vlakno 1142003] dasvoboda: AIrbank jde proti trendu a potichoučku, polehoučku při obnovování bez oznámení snížil úrok",
-    "html": "<div class=\"content\">AIrbank jde proti trendu a potichoučku, polehoučku při obnovování bez oznámení snížil úrok na 1-měsíční vklad z 3,7 na 3,6%.<br/><br/>Ještě že to jde bez sankce zrušit.</div>"
-  },
-  {
-    "id": 14237313,
-    "thread_id": 301647,
-    "thread_name": "FinExpert vlakno 301647",
-    "author": "dasvoboda",
-    "published": "2026-10-20T09:35:22.597141+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14237313#p14237313",
-    "title": "[FinExpert vlakno 301647] dasvoboda: mBank poslala oznámení, že v appce předělala šablony, tak jsem se těšil, že to bude jako v",
-    "html": "<div class=\"content\">mBank poslala oznámení, že v appce předělala šablony, tak jsem se těšil, že to bude jako v normální bance. Ale správá příjemců je ještě míň přehledné než předtím, zvlášť pokud máte u sebe uloženo víc účtů ve více bankách. <br/><br/>Polské UX je fakt zvláštní. Rodiče třeba mBank vzdali kvůli hůř ovladatelné appce.</div>"
-  },
-  {
-    "id": 14237323,
-    "thread_id": 1239073,
-    "thread_name": "FinExpert vlakno 1239073",
-    "author": "Malvolio",
-    "published": "2026-10-21T09:31:53.605417+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14237323#p14237323",
-    "title": "[FinExpert vlakno 1239073] Malvolio: Pokud někomu dnes nefunguje Revolut, tak není sám. \"Revolut: We are currently experiencing",
-    "html": "<div class=\"content\">Pokud někomu dnes nefunguje Revolut, tak není sám.<br/><br/>\"Revolut: We are currently experiencing an incident affecting multiple features. Our team is investigating and working on a fix. We apologise for the inconvenience and will update the status page as soon as the issue is resolved.\"<br/><br/>Důvodem je prý výpadek Google Cloud (europe-west2), kde má Revolut hostované všechny služby.</div>"
-  },
-  {
-    "id": 14237334,
-    "thread_id": 1239073,
-    "thread_name": "FinExpert vlakno 1239073",
-    "author": "wit.cz",
-    "published": "2026-10-21T09:31:57.789556+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14237334#p14237334",
-    "title": "[FinExpert vlakno 1239073] wit.cz: Jo, nejde mi vycucnout kreditka od Spořky.",
-    "html": "<div class=\"content\">Jo, nejde mi vycucnout kreditka od Spořky.</div>"
-  },
-  {
-    "id": 14237397,
-    "thread_id": 1142003,
-    "thread_name": "FinExpert vlakno 1142003",
-    "author": "mate59",
-    "published": "2026-10-21T09:30:40.396168+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14237397#p14237397",
-    "title": "[FinExpert vlakno 1142003] mate59: Nevím, co myslíš zrušit bez sankce.Ty vklady,které byli uzavříté doteď dojedou do ukončení",
-    "html": "<div class=\"content\">Nevím, co myslíš zrušit bez sankce.Ty vklady,které byli uzavříté doteď dojedou do ukončení s úrokem 3,7.Nové  na 3,6% uzavíráš ode dnes.</div>"
-  },
-  {
     "id": 14237439,
     "thread_id": 1239073,
     "thread_name": "FinExpert vlakno 1239073",
@@ -2998,5 +2928,75 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14254798#p14254798",
     "title": "[FinExpert vlakno 301647] technikus: z mBank přišla informace: Připravujeme pro vás možnost současného vedení společného i indi",
     "html": "<div class=\"content\">z mBank přišla informace:<br/><br/><blockquote class=\"uncited\"><div>Připravujeme pro vás možnost současného vedení společného i individuálního účtu, stejně jako možnost otevřít si více běžných účtů najednou. </div></blockquote></div>"
+  },
+  {
+    "id": 14255055,
+    "thread_id": 1078058,
+    "thread_name": "FinExpert vlakno 1078058",
+    "author": "mareka",
+    "published": "2026-11-24T15:09:43.088540+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14255055#p14255055",
+    "title": "[FinExpert vlakno 1078058] mareka: Jak jsme psal dříve, mail o převedení do Prime jsem taky dostal (podmínky obratu plním). A",
+    "html": "<div class=\"content\">Jak jsme psal dříve, mail o převedení do Prime jsem taky dostal (podmínky obratu plním).<br/><br/>Ale v bankovnictví mám pořád účet Start.</div>"
+  },
+  {
+    "id": 14255124,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "Milos",
+    "published": "2026-11-24T15:09:04.209298+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14255124#p14255124",
+    "title": "[FinExpert vlakno 1131529] Milos: ČSOB má novou soutěž o AirPods: Od 23. 11. do 27. 12. hrajeme s ČSOB LOVECARD o AirPods 5 ",
+    "html": "<div class=\"content\">ČSOB má novou soutěž o AirPods:<br/><br/><span style=\"font-style: italic\">Od 23. 11. do 27. 12. hrajeme s ČSOB LOVECARD o AirPods 5 a AirPods Pro. Řekni Kate „Chci AirPods“, 5× zaplať svojí LOVECARD a jsi ve hře. Nové výherce losujeme každý týden! Pravidla soutěže <a class=\"postlink\" href=\"https://www.csob.cz/documents/10710/458031/pravidla-souteze-airpods-zima-2026.pdf\" ref=\"nofollow\">zde</a>.</span></div>"
+  },
+  {
+    "id": 14255255,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "rabb",
+    "published": "2026-11-24T15:09:04.209611+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14255255#p14255255",
+    "title": "[FinExpert vlakno 1131529] rabb: Jménem ČSOB začaly chodit falešné sms. Včera mi přišly 2, každá na jiné tel. číslo Vypadá ",
+    "html": "<div class=\"content\">Jménem ČSOB začaly chodit falešné sms. Včera mi přišly 2, každá na jiné tel. číslo<br/><br/><div class=\"inline-attachment\"> <dl class=\"thumbnail\">\n<dt><a href=\"./download/file.php?id=126890&amp;mode=view\"><img alt=\"IMG_20261123_210302d.jpg\" src=\"./download/file.php?id=126890&amp;t=1\" title=\"IMG_20261123_210302d.jpg (81.32 ) Zobrazeno 44 krát\"/></a></dt>\n</dl>\n</div><br/><br/>Vypadá to důvěryhodně, protože to neposílají z nějakého čísla, ale jako odesílatel se zobrazí ČSOB, takže se to automaticky zařadí do reálné historie zpráv z ČSOB.<br/><br/>Zajímavé je, mi to současně přišlo na obě tel. čísla a ve stejnou dobu, takže mi to přijde jako z nějaké uniklé bankovní DB, protože jen málokdy mám u nějaké instituce evidovány obě tel. čísla.<br/><br/>Jinak dle návodu na stránkách ČSOB jsem sms přeposlal na číslo 7726, tak snad jim to nějak pomůže.</div>"
+  },
+  {
+    "id": 14255302,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "DenacifikaceCZ27",
+    "published": "2026-11-24T15:09:04.209962+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14255302#p14255302",
+    "title": "[FinExpert vlakno 1131529] DenacifikaceCZ27: Už někdo dostal bonus 1500Kč za 3M \"aktivitu\", tedy z bankou Osobně oslovených? Nebo za mo",
+    "html": "<div class=\"content\">Už někdo dostal bonus 1500Kč za 3M \"aktivitu\", tedy z bankou Osobně oslovených? Nebo za mobilitu?  <img alt=\":D\" src=\"./images/smilies/39.gif\" title=\":D\"/></div>"
+  },
+  {
+    "id": 14255334,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "peter23p",
+    "published": "2026-11-24T15:09:04.210226+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14255334#p14255334",
+    "title": "[FinExpert vlakno 1131529] peter23p: Ne je brzo, reálně se to dalo stihnout za září, říjen a listopad takže odměny budou chodit",
+    "html": "<div class=\"content\">Ne je brzo, reálně se to dalo stihnout za září, říjen a listopad takže odměny budou chodit až v prosinci.</div>"
+  },
+  {
+    "id": 14255547,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "hopo.hopo",
+    "published": "2026-11-24T15:09:04.210474+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14255547#p14255547",
+    "title": "[FinExpert vlakno 1131529] hopo.hopo: wit.cz píše: Akce „Vánoce 2026“ je určena jen klientům s Plus Kontem, Poštovním účtem nebo",
+    "html": "<div class=\"content\"><blockquote><div><cite>wit.cz píše:</cite>Akce „Vánoce 2026“ je určena jen klientům s Plus Kontem, Poštovním účtem nebo Osobním účtem. Mrzí mě to, ale nemohu vás zařadit do slosování. // DISKRIMINACJÉÉ</div></blockquote><br/><br/>Vánoční soutěž už je i pro Premium, právě dorazila push notifikace:<br/><br/><blockquote class=\"uncited\"><div>Pro velký zájem jsme slosování otevřeli i klientům ČSOB Premium. Vás už jsme do něj zařadili na základě předchozí komunikace s Kate, takže nemusíte nic dělat. Držíme palce!</div></blockquote></div>"
+  },
+  {
+    "id": 14255566,
+    "thread_id": 1131529,
+    "thread_name": "FinExpert vlakno 1131529",
+    "author": "d1vine",
+    "published": "2026-11-24T15:09:04.210768+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14255566#p14255566",
+    "title": "[FinExpert vlakno 1131529] d1vine: DenacifikaceCZ27 píše: Už někdo dostal bonus 1500Kč za 3M \"aktivitu\", tedy z bankou Osobně",
+    "html": "<div class=\"content\"><blockquote><div><cite>DenacifikaceCZ27 píše:</cite>Už někdo dostal bonus 1500Kč za 3M \"aktivitu\", tedy z bankou Osobně oslovených? Nebo za mobilitu?  <img alt=\":D\" src=\"./images/smilies/39.gif\" title=\":D\"/></div></blockquote><br/>Za aktivitu ne, ale za mobilitu ano - 1000 Kč.</div>"
   }
 ]
