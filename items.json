@@ -1,25 +1,5 @@
 [
   {
-    "id": 14239213,
-    "thread_id": 1239073,
-    "thread_name": "FinExpert vlakno 1239073",
-    "author": "Dr.D",
-    "published": "2026-10-24T09:03:06.748212+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14239213#p14239213",
-    "title": "[FinExpert vlakno 1239073] Dr.D: https://pastebin.com/Rkf8e4tC Stačí ti to takhle?",
-    "html": "<div class=\"content\"><!-- m --><a class=\"postlink\" href=\"https://pastebin.com/Rkf8e4tC\" ref=\"nofollow\">https://pastebin.com/Rkf8e4tC</a><!-- m --><br/>Stačí ti to takhle?</div>"
-  },
-  {
-    "id": 14239259,
-    "thread_id": 1256188,
-    "thread_name": "FinExpert vlakno 1256188",
-    "author": "dalich",
-    "published": "2026-10-25T09:19:25.468638+00:00",
-    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14239259#p14239259",
-    "title": "[FinExpert vlakno 1256188] dalich: Rop píše: Dotaz - je ještě někdo v původním bankovnictví Creditas? Pokud ano, jaký je časo",
-    "html": "<div class=\"content\"><blockquote><div><cite>Rop píše:</cite>Dotaz - je ještě někdo v původním bankovnictví Creditas? Pokud ano, jaký je časový plán, že se přejde do Creditas One? Dík.</div></blockquote><br/>Jsem v původním, o níčem nevím. Osobně ale očekávám, že to někdy v listopadu přepnou, uvidíme.</div>"
-  },
-  {
     "id": 14239326,
     "thread_id": 1239073,
     "thread_name": "FinExpert vlakno 1239073",
@@ -2998,5 +2978,25 @@
     "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14256900#p14256900",
     "title": "[FinExpert vlakno 1078058] Alpha8520: Mobilita se vždycky zadává u banky, kam se chce účet převést. UCB ani mobilitu podle mě ne",
     "html": "<div class=\"content\">Mobilita se vždycky zadává u banky, kam se chce účet převést. UCB ani mobilitu podle mě nenabízí, leda na pobočce. Ve dvou bankách dej žádost o převod účtu (KB to umí bez návštěvy pobočky, přimo v KB+, Airbank nebo Moneta třeba taky v SB). Nová banka sama pošle tvým jménem žádost o zrušení účtu a UCB je povinna ho zrušit.</div>"
+  },
+  {
+    "id": 14256967,
+    "thread_id": 1239073,
+    "thread_name": "FinExpert vlakno 1239073",
+    "author": "hopo.hopo",
+    "published": "2026-11-28T13:29:06.914225+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14256967#p14256967",
+    "title": "[FinExpert vlakno 1239073] hopo.hopo: Alpha8520 píše: Našel jsem na reddit, že nejlepší je zvýšit plán a hned zrušit (tím se zač",
+    "html": "<div class=\"content\"><blockquote><div><cite>Alpha8520 píše:</cite>Našel jsem na reddit, že nejlepší je zvýšit plán a hned zrušit (tím se začne počítat 14 denní období na zrušení zdarma). Je to ale risk, nemusí se povést. Mně se to povedlo, chtěli po mě 700Kč za kartu a využitou eSIM u Premium, které jsem měl na dva měsíce zdarma. Převedl jsem na Metal (vezmou si poplatek za plán) a pak hned v 14 denní lhůtě zrušit. Poplatek je vrácen a nic jsem neplatil, karta zdarma.<br/>Nevím, jestli to takhle funguje i u přechodu Metal-Ultra a jestli to funguje u všech, u mě to fungovalo.</div></blockquote><br/><br/>Tak už jsem taky poučen o novou zkušenost, ale naštěstí tento trik stále funguje, Premium -&gt; bububu poplatek za eSIM při downgradu na Standard (480 Kč za 2x 1 GB) -&gt; Metal bez poplatku za eSIM -&gt; okamžitě zpět Standard, poplatek za Metal hned vrácen a eSIM fee zapomenuto.</div>"
+  },
+  {
+    "id": 14257152,
+    "thread_id": 1078058,
+    "thread_name": "FinExpert vlakno 1078058",
+    "author": "minarjo",
+    "published": "2026-11-28T13:28:40.907175+00:00",
+    "link": "https://forum.finexpert.e15.cz/viewtopic.php?p=14257152#p14257152",
+    "title": "[FinExpert vlakno 1078058] minarjo: Proč jako mobilitu ve dvou různých bankách, když to vůbec není třeba? Když já rušil \"balíč",
+    "html": "<div class=\"content\">Proč jako mobilitu ve dvou různých bankách, když to vůbec není třeba? Když já rušil \"balíček\" dvou běžných UCB účtů, tedy ten první a \"Další\", zadal jsem mobilitu tuším z Fio IB (vázanou na můj už dávno léta existující Fio běžný účet jako cíl mobility) na oba UCB účty naráz, tedy přesněji na ten první a obratem druhé zadání mobility ihned i na ten druhý. V tom žádný problém není, že cílem mobility obou účtů je totožný, již existující účet v jiné bance (v mém případě Fio, ale stejně by to šlo třeba z appky Raiffeisenbank či Air Bank, kde jsem už rušící mobility zadával v posledních letech do jiných bank). Mobilita není nutně k založení nového účtu v nové bance, jak si asi ale dotazů někteří myslí, ale i k likvidaci starých účtů jinou bankou (+ převodu jejich zůstatku a stavu pravidelných plateb na už existující účet). Takže s ní lze s klidem zadat pro oba UCB účty zrušení a převod zůstatků (či trvalých příkazů/inkas, pokud existují) na totožný a již existující účet v jiné bance.</div>"
   }
 ]
